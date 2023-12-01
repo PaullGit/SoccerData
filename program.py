@@ -10,6 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
+
 def GetPlayerNameID(club_id):
     headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux ×86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
     page =  f"https://www.transfermarkt.co.uk/clubname/startseite/verein/{club_id}"
@@ -55,3 +56,4 @@ for club_id in club_ids_premierleague:
 # print(len(NamesList))
 # print(IDsList)
 # print(len(IDsList))
+
