@@ -1,59 +1,30 @@
-# Make sure that 
-# * sudo pip3 install requests
-# * sudo pip3 install bs4 
-# * sudo pip3 install pandas
-
-# were ran before executing the code beneath
-
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
+import functions as f
 
-def GetPlayerNameID(club_id):
-    headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux ×86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+Names = []
+IDs = []
+ClubIDs = []
+
+premier_league = [985, 11, 281,631,31,148, 762, 405, 379, 1237, 703, 1148, 873, 29, 989, 543, 931,1132, 350,1031]
+series_a = [6195, 46, 5, 506, 12, 800, 398, 430,416, 1025, 6574, 410, 252, 2919, 380, 749, 276, 1005, 1390, 8970]
+eredivisie = [234, 383, 610,1090,317,200,306,467,468,499,798,385,1435,1269,723,1304,724,235]
+ligue_1 = []
+la_liga = []
+bundesliga = []
+
+headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux ×86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
+for club_id in eredivisie:
     page =  f"https://www.transfermarkt.co.uk/clubname/startseite/verein/{club_id}"
     pageTree = requests.get(page, headers=headers)
     pageSoup = BeautifulSoup(pageTree. content, 'html.parser')
-    #Get club id
-    club_id = page.split("/")[-1]
+    Names += f.GetPlayerName(club_id, pageSoup)
+    IDs += f.GetPlayerID(club_id, pageSoup)[0]
+    ClubIDs += f.GetPlayerID(club_id, pageSoup)[1]
+    print(str (f.Validate(Names, IDs)) + " " + str(club_id))
 
 
-    Names = pageSoup.find_all("img", {"class": "bilderrahmen-fixed lazy lazy"})
-    IDs =  pageSoup.find_all("td", {"class": "rechts hauptlink"})
-
-    #Seeding Data
-    NamesList = [element['alt'] for element in Names] 
-    NamesList = NamesList
-    for i in range(0, len(NamesList)):
-        html_string = str(IDs[i])
-        match = re.search(r'/spieler/(\d+)', html_string)
-        if match:
-            player_id = match.group(1)
-            IDsList.append(player_id)
-        else:
-            IDsList.append("NULL")
-
-    for i in range(0, len(Names)):
-        ClubIDsList.append(club_id)
-
-    print(NamesList)
-    print("COUNT OF " + str(len(NamesList)) + " NAMES")
-    print(IDsList)
-    print("COUNT OF " + str(len(IDsList)) + " IDS")
-    return NamesList, IDsList, ClubIDsList
-
-NamesList = []
-IDsList = []
-ClubIDsList = []
-club_ids_premierleague = [985, 11, 281,631,31]
-for club_id in club_ids_premierleague:
-    NamesList += GetPlayerNameID(club_id)[0]    
-    IDsList += GetPlayerNameID(club_id)[1]
-    ClubIDsList += GetPlayerNameID(club_id)[2]
-# print(NamesList)
-# print(len(NamesList))
-# print(IDsList)
-# print(len(IDsList))
-
+df = pd.DataFrame({"IDs": IDs, "Names": Names, "ClubIDs": ClubIDs })
+print(df)
