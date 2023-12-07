@@ -1,3 +1,4 @@
+from bs4 import BeautifulSoup
 
 def GetPlayers(club_id, pageSoup):
     html_names = pageSoup.find_all("img", {"class": "bilderrahmen-fixed lazy lazy"})
@@ -25,4 +26,57 @@ def Validate(a ,b, club_id):
         print("a: " + str( len(a)) )
         print("b: " + str( len(b)) )
         print("False on club_id: " + str(club_id))
-        
+
+def GetPlayerInjuryHistory(player, pageSoup):
+
+    #PAGE SOUPING
+    SeasonFromUntil = pageSoup.find_all("td", {"class": "zentriert"})
+    Injury = pageSoup.find_all("td", {"class": "hauptlink"})
+    DaysGamesMissed = pageSoup.find_all("td", {"class": "rechts"})
+
+    #SEEDING DATA
+    player_id_list = []
+    season_list = []
+    from_list = []
+    until_list = []
+    injury_list = []
+    days_list = []
+    games_missed_list = []
+    for _ in range(0, len(SeasonFromUntil)):
+        html_string = SeasonFromUntil[_]
+        soup = BeautifulSoup(str(html_string), 'html.parser')
+        td_tag = soup.find("td", class_="zentriert")
+        if td_tag:
+            if _ % 3 == 0:  
+                season_list.append(td_tag.text)
+            if _ % 3 == 1:
+                from_list.append(td_tag.text)
+            if _ % 3 == 2:
+                until_list.append(td_tag.text)
+        else:
+            print("NULL")
+
+    for _ in range(0, len(Injury),2):
+        html_string = Injury[_]
+        soup = BeautifulSoup(str(html_string), 'html.parser')
+        td_tag = soup.find("td", class_="hauptlink")
+        if td_tag:
+            injury_list.append(td_tag.text)
+        else:
+            print("NULL")
+
+    for _ in range(0, len(DaysGamesMissed)):
+        html_string = DaysGamesMissed[_]
+        soup = BeautifulSoup(str(html_string), 'html.parser')
+        td_tag = soup.find("td", class_="rechts")
+        if td_tag:
+            if _ % 2 == 0:  
+                days_list.append(td_tag.text)
+            if _ % 2 == 1:
+                games_missed_list.append(td_tag.text)
+        else:
+            print("NULL")
+
+    for _ in range(0, len(season_list)):
+        player_id_list.append(player)
+    return player_id_list, season_list, injury_list, from_list, until_list, days_list, games_missed_list
