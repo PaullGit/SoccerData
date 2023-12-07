@@ -1,0 +1,3777 @@
+,PlayerID,PlayerName,ClubID
+0,234509,André Onana,985
+1,336077,Altay Bayındır,985
+2,34130,Tom Heaton,985
+3,480762,Lisandro Martínez,985
+4,164770,Raphaël Varane,985
+5,177907,Harry Maguire,985
+6,184573,Victor Lindelöf,985
+7,42412,Jonny Evans,985
+8,183288,Luke Shaw,985
+9,339340,Tyrell Malacia,985
+10,282429,Sergio Reguilón,985
+11,357147,Diogo Dalot,985
+12,477758,Aaron Wan-Bissaka,985
+13,16306,Casemiro,985
+14,287579,Sofyan Amrabat,985
+15,315969,Scott McTominay,985
+16,288255,Donny van de Beek,985
+17,820374,Kobbie Mainoo,985
+18,240306,Bruno Fernandes,985
+19,346483,Mason Mount,985
+20,69633,Christian Eriksen,985
+21,607224,Hannibal,985
+22,640026,Shola Shoretire,985
+23,258923,Marcus Rashford,985
+24,401173,Jadon Sancho,985
+25,811779,Alejandro Garnacho,985
+26,602105,Antony,985
+27,536835,Amad Diallo,985
+28,676318,Facundo Pellistri,985
+29,610442,Rasmus Højlund,985
+30,182877,Anthony Martial,985
+31,427568,Aaron Ramsdale,11
+32,262749,David Raya,11
+33,493513,Karl Hein,11
+34,495666,William Saliba,11
+35,435338,Gabriel Magalhães,11
+36,420243,Jurrien Timber,11
+37,425918,Jakub Kiwior,11
+38,203853,Oleksandr Zinchenko,11
+39,335721,Ben White,11
+40,331560,Takehiro Tomiyasu,11
+41,112988,Cédric Soares,11
+42,357662,Declan Rice,11
+43,230784,Thomas Partey,11
+44,102017,Jorginho,11
+45,160438,Mohamed Elneny,11
+46,316264,Martin Ødegaard,11
+47,309400,Kai Havertz,11
+48,392765,Emile Smith Rowe,11
+49,537598,Fábio Vieira,11
+50,655488,Gabriel Martinelli,11
+51,144028,Leandro Trossard,11
+52,433177,Bukayo Saka,11
+53,340325,Reiss Nelson,11
+54,363205,Gabriel Jesus,11
+55,340324,Eddie Nketiah,11
+56,238223,Ederson,281
+57,85941,Stefan Ortega,281
+58,221624,Zack Steffen,281
+59,14555,Scott Carson,281
+60,258004,Rúben Dias,281
+61,475959,Josko Gvardiol,281
+62,177476,Nathan Aké,281
+63,186590,John Stones,281
+64,284730,Manuel Akanji,281
+65,366930,Sergio Gómez,281
+66,701057,Rico Lewis,281
+67,95424,Kyle Walker,281
+68,357565,Rodri,281
+69,351749,Kalvin Phillips,281
+70,601883,Matheus Nunes,281
+71,51471,Mateo Kovacic,281
+72,241641,Bernardo Silva,281
+73,88755,Kevin De Bruyne,281
+74,203460,Jack Grealish,281
+75,486049,Jérémy Doku,281
+76,406635,Phil Foden,281
+77,661207,Oscar Bobb,281
+78,418560,Erling Haaland,281
+79,576024,Julián Álvarez,281
+80,403151,Robert Sánchez,631
+81,465555,Djordje Petrovic,631
+82,116648,Marcus Bettinelli,631
+83,490606,Lucas Bergström,631
+84,614258,Levi Colwill,631
+85,386047,Axel Disasi,631
+86,463603,Benoît Badiashile,631
+87,475411,Wesley Fofana,631
+88,346314,Trevoh Chalobah,631
+89,344596,Malang Sarr,631
+90,29241,Thiago Silva,631
+91,316125,Ben Chilwell,631
+92,284857,Marc Cucurella,631
+93,485585,Ian Maatsen,631
+94,472423,Reece James,631
+95,620322,Malo Gusto,631
+96,687626,Moisés Caicedo,631
+97,628451,Roméo Lavia,631
+98,711999,Lesley Ugochukwu,631
+99,648195,Enzo Fernández,631
+100,488362,Conor Gallagher,631
+101,659459,Carney Chukwuemeka,631
+102,344381,Christopher Nkunku,631
+103,568177,Cole Palmer,631
+104,134425,Raheem Sterling,631
+105,537860,Mykhaylo Mudryk,631
+106,503987,Noni Madueke,631
+107,776890,Nicolas Jackson,631
+108,571743,Armando Broja,631
+109,1082850,Deivid Washington,631
+110,105470,Alisson,31
+111,340918,Caoimhín Kelleher,31
+112,71271,Adrián,31
+113,486604,Vitezslav Jaros,31
+114,357119,Ibrahima Konaté,31
+115,139208,Virgil van Dijk,31
+116,256178,Joe Gomez,31
+117,82105,Joel Matip,31
+118,632349,Jarell Quansah,31
+119,234803,Andrew Robertson,31
+120,338070,Konstantinos Tsimikas,31
+121,314353,Trent Alexander-Arnold,31
+122,624258,Conor Bradley,31
+123,146310,Wataru Endo,31
+124,864799,Stefan Bajcetic,31
+125,451276,Dominik Szoboszlai,31
+126,534033,Alexis Mac Allister,31
+127,478573,Ryan Gravenberch,31
+128,433188,Curtis Jones,31
+129,60444,Thiago,31
+130,565822,Harvey Elliott,31
+131,480692,Luis Díaz,31
+132,340950,Diogo Jota,31
+133,148455,Mohamed Salah,31
+134,719673,Ben Doak,31
+135,546543,Darwin Núñez,31
+136,434675,Cody Gakpo,31
+137,286047,Guglielmo Vicario,148
+138,17965,Hugo Lloris,148
+139,52570,Fraser Forster,148
+140,428016,Brandon Austin,148
+141,282823,Alfie Whiteman,148
+142,355915,Cristian Romero,148
+143,557459,Micky van de Ven,148
+144,175722,Eric Dier,148
+145,859951,Ashley Phillips,148
+146,556385,Destiny Udogie,148
+147,192765,Ben Davies,148
+148,553875,Pedro Porro,148
+149,476344,Emerson Royal,148
+150,167799,Pierre-Emile Højbjerg,148
+151,406638,Oliver Skipp,148
+152,354362,Rodrigo Bentancur,148
+153,568693,Pape Matar Sarr,148
+154,410425,Yves Bissouma,148
+155,392775,Ryan Sessegnon,148
+156,42460,Ivan Perisic,148
+157,294057,James Maddison,148
+158,348795,Giovani Lo Celso,148
+159,396638,Manor Solomon,148
+160,537382,Bryan Gil,148
+161,431755,Dejan Kulusevski,148
+162,470607,Brennan Johnson,148
+163,91845,Heung-min Son,148
+164,378710,Richarlison,148
+165,888493,Alejo Véliz,148
+166,192080,Nick Pope,762
+167,74960,Martin Dúbravka,762
+168,85864,Loris Karius,762
+169,142389,Mark Gillespie,762
+170,361093,Sven Botman,762
+171,135343,Fabian Schär,762
+172,183318,Jamaal Lascelles,762
+173,170321,Paul Dummett,762
+174,670858,Lewis Hall,762
+175,250478,Matt Targett,762
+176,134270,Dan Burn,762
+177,503981,Tino Livramento,762
+178,95810,Kieran Trippier,762
+179,184528,Emil Krafth,762
+180,162029,Javier Manquillo,762
+181,520624,Bruno Guimarães,762
+182,397033,Sandro Tonali,762
+183,333241,Joelinton,762
+184,340329,Joe Willock,762
+185,346707,Sean Longstaff,762
+186,922769,Lewis Miley,762
+187,92469,Matt Ritchie,762
+188,567576,Elliot Anderson,762
+189,503733,Anthony Gordon,762
+190,398065,Harvey Barnes,762
+191,272999,Miguel Almirón,762
+192,199527,Jacob Murphy,762
+193,349066,Alexander Isak,762
+194,123682,Callum Wilson,762
+195,111873,Emiliano Martínez,405
+196,75458,Robin Olsen,405
+197,399776,Pau Torres,405
+198,413403,Ezri Konsa,405
+199,253677,Tyrone Mings,405
+200,329145,Diego Carlos,405
+201,182904,Clément Lenglet,405
+202,233124,Kortney Hause,405
+203,126664,Lucas Digne,405
+204,193098,Álex Moreno,405
+205,425334,Matty Cash,405
+206,215118,Calum Chambers,405
+207,394327,Boubacar Kamara,405
+208,168157,Leander Dendoncker,405
+209,447661,Douglas Luiz,405
+210,503749,Jacob Ramsey,405
+211,193116,John McGinn,405
+212,249565,Youri Tielemans,405
+213,696589,Tim Iroegbunam,405
+214,392085,Nicolò Zaniolo,405
+215,387626,Leon Bailey,405
+216,395516,Moussa Diaby,405
+217,321247,Emiliano Buendía,405
+218,131996,Bertrand Traoré,405
+219,324358,Ollie Watkins,405
+220,649317,Jhon Durán,405
+221,120629,Alphonse Areola,379
+222,29692,Lukasz Fabianski,379
+223,576099,Joseph Anang,379
+224,361914,Nayef Aguerd,379
+225,157509,Kurt Zouma,379
+226,415912,Konstantinos Mavropanos,379
+227,228948,Thilo Kehrer,379
+228,48002,Angelo Ogbonna,379
+229,181778,Emerson Palmieri,379
+230,92571,Aaron Cresswell,379
+231,468002,Ben Johnson,379
+232,157672,Vladimir Coufal,379
+233,401356,Edson Álvarez,379
+234,283628,Tomas Soucek,379
+235,419025,Conor Coventry,379
+236,181579,James Ward-Prowse,379
+237,444523,Lucas Paquetá,379
+238,543499,Mohammed Kudus,379
+239,357885,Pablo Fornals,379
+240,290532,Saïd Benrahma,379
+241,234781,Maxwel Cornet,379
+242,314875,Jarrod Bowen,379
+243,134294,Danny Ings,379
+244,104124,Michail Antonio,379
+245,670848,Divin Mubama,379
+246,565093,Bart Verbruggen,1237
+247,73564,Jason Steele,1237
+248,406556,Tom McGill,1237
+249,212847,Adam Webster,1237
+250,148153,Lewis Dunk,1237
+251,380350,Igor,1237
+252,576314,Jan Paul van Hecke,1237
+253,349599,Pervis Estupiñán,1237
+254,504148,Tariq Lamptey,1237
+255,111195,Joël Veltman,1237
+256,973085,Carlos Baleba,1237
+257,423744,Billy Gilmour,1237
+258,867688,Jack Hinshelwood,1237
+259,191422,Mahmoud Dahoud,1237
+260,384461,Jakub Moder,1237
+261,82873,Pascal Groß,1237
+262,3333,James Milner,1237
+263,983989,Facundo Buonanotte,1237
+264,43530,Adam Lallana,1237
+265,504849,Kaoru Mitoma,1237
+266,466810,Ansu Fati,1237
+267,658536,Simon Adingra,1237
+268,209212,Solly March,1237
+269,660867,Julio Enciso,1237
+270,648046,Evan Ferguson,1237
+271,626724,João Pedro,1237
+272,67063,Danny Welbeck,1237
+273,425306,Matt Turner,703
+274,124419,Odysseas Vlachodimos,703
+275,242284,Ethan Horvath,703
+276,45494,Wayne Hennessey,703
+277,291200,Moussa Niakhaté,703
+278,415970,Joe Worrall,703
+279,621993,Andrew Omobamidele,703
+280,255906,Scott McKenna,703
+281,1005649,Murillo,703
+282,142310,Willy Boly,703
+283,156501,Felipe,703
+284,535955,Nuno Tavares,703
+285,198516,Harry Toffolo,703
+286,503680,Neco Williams,703
+287,402733,Gonzalo Montiel,703
+288,127032,Serge Aurier,703
+289,236490,Ola Aina,703
+290,375885,Ibrahim Sangaré,703
+291,743600,Andrey Santos,703
+292,66934,Cheikhou Kouyaté,703
+293,808509,Danilo,703
+294,289592,Orel Mangala,703
+295,497291,Nicolás Domínguez,703
+296,425902,Ryan Yates,703
+297,55742,Harry Arter,703
+298,429014,Morgan Gibbs-White,703
+299,631996,Brandon Aguilera,703
+300,583189,Anthony Elanga,703
+301,392768,Callum Hudson-Odoi,703
+302,295313,Taiwo Awoniyi,703
+303,108725,Chris Wood,703
+304,148368,Divock Origi,703
+305,125714,Mark Flekken,1148
+306,222209,Thomas Strakosha,1148
+307,456292,Ellery Balcombe,1148
+308,469050,Nathan Collins,1148
+309,328658,Kristoffer Ajer,1148
+310,442248,Ethan Pinnock,1148
+311,74810,Ben Mee,1148
+312,52059,Zanka,1148
+313,376856,Charlie Goode,1148
+314,339556,Rico Henry,1148
+315,591949,Aaron Hickey,1148
+316,391005,Mads Roerslev,1148
+317,270171,Vitaly Janelt,1148
+318,148367,Christian Nørgaard,1148
+319,319859,Mathias Jensen,1148
+320,340321,Josh Dasilva,1148
+321,421637,Frank Onyeka,1148
+322,533916,Shandon Baptiste,1148
+323,204294,Saman Ghoddos,1148
+324,717411,Yegor Yarmolyuk,1148
+325,587002,Myles Peart-Harris,1148
+326,388165,Yoane Wissa,1148
+327,540941,Mikkel Damsgaard,1148
+328,644401,Keane Lewis-Potter,1148
+329,413039,Bryan Mbeumo,1148
+330,473050,Kevin Schade,1148
+331,734425,Michael Olakigbe,1148
+332,251664,Ivan Toney,1148
+333,217115,Neal Maupay,1148
+334,258919,Dean Henderson,873
+335,110864,Sam Johnstone,873
+336,670840,Joe Whitworth,873
+337,196722,Remi Matthews,873
+338,392757,Marc Guéhi,873
+339,260827,Joachim Andersen,873
+340,578539,Chris Richards,873
+341,253341,Rob Holding,873
+342,507254,Nathan Ferguson,873
+343,61592,James Tomkins,873
+344,730893,Tyrick Mitchell,873
+345,85177,Nathaniel Clyne,873
+346,92572,Joel Ward,873
+347,543387,Cheick Doucouré,873
+348,262980,Jefferson Lerma,873
+349,241481,Jairo Riedewald,873
+350,538971,Naouirou Ahamada,873
+351,207014,Will Hughes,873
+352,157506,Jeffrey Schlupp,873
+353,479999,Eberechi Eze,873
+354,743597,Matheus França,873
+355,566723,Michael Olise,873
+356,512354,Malcolm Ebiowei,873
+357,586834,Jesurun Rak-Sakyi,873
+358,344152,Odsonne Edouard,873
+359,420002,Jean-Philippe Mateta,873
+360,108354,Jordan Ayew,873
+361,130164,Jordan Pickford,29
+362,329813,João Virgínia,29
+363,14044,Andy Lonergan,29
+364,173504,James Tarkowski,29
+365,661053,Jarrad Branthwaite,29
+366,343475,Ben Godfrey,29
+367,118534,Michael Keane,29
+368,404842,Vitaliy Mykolenko,29
+369,14086,Ashley Young,29
+370,424015,Nathan Patterson,29
+371,68390,Seamus Coleman,29
+372,485706,Amadou Onana,29
+373,505219,James Garner,29
+374,221025,André Gomes,29
+375,127187,Abdoulaye Doucouré,29
+376,126665,Idrissa Gueye,29
+377,663225,Tyler Onyango,29
+378,207929,Dele Alli,29
+379,584769,Dwight McNeil,29
+380,355861,Arnaut Danjuma,29
+381,627248,Lewis Dobbin,29
+382,417346,Jack Harrison,29
+383,306024,Dominic Calvert-Lewin,29
+384,595809,Beto,29
+385,670688,Chermiti,29
+386,303657,Ionuț Radu,989
+387,357658,Mark Travers,989
+388,111819,Neto,989
+389,51321,Darren Randolph,989
+390,469781,Marcos Senesi,989
+391,659089,Ilya Zabarnyi,989
+392,480116,Lloyd Kelly,989
+393,480987,Chris Mepham,989
+394,730861,Milos Kerkez,989
+395,471690,Max Aarons,989
+396,140191,Ryan Fredericks,989
+397,61841,Adam Smith,989
+398,332705,Tyler Adams,989
+399,855256,Alex Scott,989
+400,320411,Philip Billing,989
+401,249089,Lewis Cook,989
+402,183293,Joe Rothwell,989
+403,469064,Gavin Kilkenny,989
+404,399434,Marcus Tavernier,989
+405,391065,Hamed Junior Traorè,989
+406,188077,Ryan Christie,989
+407,232964,Emiliano Marcondes,989
+408,512385,Luis Sinisterra,989
+409,330659,Justin Kluivert,989
+410,823231,Dango Ouattara,989
+411,277033,David Brooks,989
+412,258889,Dominic Solanke,989
+413,583255,Antoine Semenyo,989
+414,275590,Kieffer Moore,989
+415,249994,José Sá,543
+416,136401,Daniel Bentley,543
+417,215810,Tom King,543
+418,525247,Max Kilman,543
+419,438001,Santiago Bueno,543
+420,606718,Toti,543
+421,121477,Craig Dawson,543
+422,578391,Rayan Aït-Nouri,543
+423,175446,Jonny Otto,543
+424,698678,Hugo Bueno,543
+425,231572,Nélson Semedo,543
+426,171679,Matt Doherty,543
+427,170934,Mario Lemina,543
+428,649020,Boubacar Traoré,543
+429,503975,Joe Hodge,543
+430,735570,João Gomes,543
+431,450050,Jean-Ricner Bellegarde,543
+432,433183,Tommy Doyle,543
+433,415646,Bruno Jordão,543
+434,1060740,Enso González,543
+435,487465,Pedro Neto,543
+436,74230,Pablo Sarabia,543
+437,517894,Matheus Cunha,543
+438,292246,Hee-chan Hwang,543
+439,505653,Fábio Silva,543
+440,369567,Sasa Kalajdzic,543
+441,72476,Bernd Leno,931
+442,186901,Marek Rodak,931
+443,381469,Steven Benda,931
+444,272622,Issa Diop,931
+445,461883,Calvin Bassey,931
+446,258878,Tosin Adarabioyo,931
+447,145466,Tim Ream,931
+448,349701,Antonee Robinson,931
+449,296422,Fodé Ballo-Touré,931
+450,262226,Timothy Castagne,931
+451,206746,Kenny Tete,931
+452,257455,João Palhinha,931
+453,226973,Harrison Reed,931
+454,245056,Sasa Lukic,931
+455,123275,Tom Cairney,931
+456,528888,Tyrese Francois,931
+457,242631,Alex Iwobi,931
+458,203394,Andreas Pereira,931
+459,186186,Bobby De Cordova-Reid,931
+460,817612,Luke Harris,931
+461,52769,Willian,931
+462,279455,Harry Wilson,931
+463,204103,Adama Traoré,931
+464,206040,Raúl Jiménez,931
+465,525287,Carlos Vinícius,931
+466,735571,Rodrigo Muniz,931
+467,566799,James Trafford,1132
+468,371021,Arijanet Muric,1132
+469,243591,Lawrence Vigouroux,1132
+470,606576,Denis Franchi,1132
+471,403898,Jordan Beyer,1132
+472,620598,Ameen Al-Dakhil,1132
+473,392179,Hjalmar Ekdal,1132
+474,401320,Dara O'Shea,1132
+475,338635,Hannes Delcroix,1132
+476,195633,Charlie Taylor,1132
+477,214666,Connor Roberts,1132
+478,468249,Vitinho,1132
+479,581669,CJ Egan-Riley,1132
+480,333014,Sander Berge,1132
+481,536508,Han-Noah Massengo,1132
+482,40613,Jack Cork,1132
+483,293569,Josh Brownhill,1132
+484,242606,Josh Cullen,1132
+485,646658,Aaron Ramsey,1132
+486,381963,Mike Trésor,1132
+487,491296,Anass Zaroury,1132
+488,745461,Luca Koleosho,1132
+489,293281,Jacob Bruun Larsen,1132
+490,386786,Darko Churlinov,1132
+491,129078,Nathan Redmond,1132
+492,743498,Wilson Odobert,1132
+493,322702,Benson Manuel,1132
+494,89231,Jóhann Berg Gudmundsson,1132
+495,724041,Enock Agyei,1132
+496,548729,Zeki Amdouni,1132
+497,467623,Lyle Foster,1132
+498,444208,Michael Obafemi,1132
+499,53360,Jay Rodríguez,1132
+500,61697,Wes Foderingham,350
+501,121254,Adam Davies,350
+502,385412,Jordan Amissah,350
+503,377468,Anel Ahmedhodzic,350
+504,389253,Auston Trusty,350
+505,121324,John Egan,350
+506,128909,Jack Robinson,350
+507,52495,Chris Basham,350
+508,505194,Luke Thomas,350
+509,554251,Yasser Larouci,350
+510,258885,Max Lowe,350
+511,543164,Rhys Norrington-Davies,350
+512,465717,Jayden Bogle,350
+513,638649,Femi Seriki,350
+514,322985,Gustavo Hamer,350
+515,663581,Vini Souza,350
+516,583199,James McAtee,350
+517,314210,Tom Davies,350
+518,546712,Anis Slimane,350
+519,73547,Oliver Norwood,350
+520,54383,John Fleck,350
+521,490224,Ismaila Coulibaly,350
+522,218087,Ben Osborn,350
+523,146690,George Baldock,350
+524,533662,Cameron Archer,350
+525,298477,Oli McBurnie,350
+526,406560,Rhian Brewster,350
+527,852024,Bénie Traoré,350
+528,609556,William Osula,350
+529,746740,Daniel Jebbison,350
+530,77757,Thomas Kaminski,1031
+531,33027,Tim Krul,1031
+532,91340,James Shea,1031
+533,207742,Tom Lockyer,1031
+534,407021,Mads Andersen,1031
+535,548470,Teden Mengi,1031
+536,264220,Reece Burke,1031
+537,364409,Gabriel Osho,1031
+538,504581,Ryan Giles,1031
+539,608175,Alfie Doughty,1031
+540,278166,Amari'i Bell,1031
+541,207037,Dan Potts,1031
+542,649452,Issa Kaboré,1031
+543,324882,Marvelous Nakamba,1031
+544,244338,Pelly Ruddock Mpanzu,1031
+545,381967,Albert Sambi Lokonga,1031
+546,131978,Ross Barkley,1031
+547,184129,Jordan Clark,1031
+548,125685,Luke Berry,1031
+549,344830,Tahith Chong,1031
+550,392591,Chiedozie Ogbene,1031
+551,61842,Andros Townsend,1031
+552,246963,Carlton Morris,1031
+553,319900,Elijah Adebayo,1031
+554,469958,Jacob Brown,1031
+555,169801,Cauley Woodrow,1031
+556,240414,Alex Meret,6195
+557,244192,Pierluigi Gollini,6195
+558,250683,Nikita Contini,6195
+559,555557,Hubert Idasiak,6195
+560,257732,Amir Rrahmani,6195
+561,735568,Natan,6195
+562,367284,Leo Østigård,6195
+563,121985,Juan Jesus,6195
+564,376514,Mathías Olivera,6195
+565,87884,Mário Rui,6195
+566,169880,Giovanni Di Lorenzo,6195
+567,397225,Alessandro Zanoli,6195
+568,192735,Stanislav Lobotka,6195
+569,82070,Diego Demme,6195
+570,354361,Frank Anguissa,6195
+571,181136,Piotr Zielinski,6195
+572,400489,Eljif Elmas,6195
+573,468066,Jens Cajuste,6195
+574,513245,Jesper Lindstrøm,6195
+575,358008,Gianluca Gaetano,6195
+576,885236,Lorenzo Russo,6195
+577,502670,Khvicha Kvaratskhelia,6195
+578,433584,Alessio Zerbin,6195
+579,165895,Matteo Politano,6195
+580,405885,Giacomo Raspadori,6195
+581,401923,Victor Osimhen,6195
+582,282388,Giovanni Simeone,6195
+583,256339,Emil Audero,46
+584,42205,Yann Sommer,46
+585,70580,Raffaele Di Gennaro,46
+586,315853,Alessandro Bastoni,46
+587,353366,Benjamin Pavard,46
+588,111196,Stefan de Vrij,46
+589,441986,Yann Bisseck,46
+590,131075,Francesco Acerbi,46
+591,198116,Federico Dimarco,46
+592,54906,Matteo Darmian,46
+593,126414,Hakan Çalhanoğlu,46
+594,543771,Kristjan Asllani,46
+595,569384,Lucien Agoumé,46
+596,255942,Nicolò Barella,46
+597,394300,Davide Frattesi,46
+598,182932,Davy Klaassen,46
+599,216179,Stefano Sensi,46
+600,55735,Henrikh Mkhitaryan,46
+601,321528,Denzel Dumfries,46
+602,91970,Juan Cuadrado,46
+603,585982,Carlos Augusto,46
+604,406625,Lautaro Martínez,46
+605,318528,Marcus Thuram,46
+606,41384,Marko Arnautovic,46
+607,40433,Alexis Sánchez,46
+608,182906,Mike Maignan,5
+609,199976,Marco Sportiello,5
+610,815563,Lapo Nava,5
+611,22141,Antonio Mirante,5
+612,303254,Fikayo Tomori,5
+613,521964,Malick Thiaw,5
+614,585949,Pierre Kalulu,5
+615,48859,Simon Kjaer,5
+616,776303,Marco Pellegrino,5
+617,197470,Mattia Caldara,5
+618,339808,Theo Hernández,5
+619,262523,Davide Calabria,5
+620,130365,Alessandro Florenzi,5
+621,351816,Ismaël Bennacer,5
+622,259953,Rade Krunic,5
+623,202886,Ruben Loftus-Cheek,5
+624,460939,Tijjani Reijnders,5
+625,503991,Yunus Musah,5
+626,392538,Tommaso Pobega,5
+627,395236,Yacine Adli,5
+628,357164,Rafael Leão,5
+629,700998,Chaka Traorè,5
+630,315779,Christian Pulisic,5
+631,401922,Samuel Chukwueze,5
+632,769063,Luka Romero,5
+633,346890,Noah Okafor,5
+634,257462,Luka Jović,5
+635,82442,Olivier Giroud,5
+636,44058,Wojciech Szczesny,506
+637,110923,Mattia Perin,506
+638,75411,Carlo Pinsoglio,506
+639,516716,Bremer,506
+640,145707,Danilo,506
+641,509022,Federico Gatti,506
+642,162959,Daniele Rugani,506
+643,890290,Dean Huijsen,506
+644,459658,Andrea Cambiaso,506
+645,79960,Alex Sandro,506
+646,88682,Mattia De Sciglio,506
+647,265088,Manuel Locatelli,506
+648,182913,Adrien Rabiot,506
+649,432090,Nicolò Fagioli,506
+650,332697,Weston McKennie,506
+651,571607,Fabio Miretti,506
+652,430280,Hans Nicolussi Caviglia,506
+653,NULL,Paul Pogba,506
+654,370846,Timothy Weah,506
+655,161011,Filip Kostić,506
+656,341092,Federico Chiesa,506
+657,581672,Samuel Iling-Junior,506
+658,845654,Kenan Yıldız,506
+659,357498,Dušan Vlahović,506
+660,364135,Moise Kean,506
+661,191891,Arkadiusz Milik,506
+662,45026,Rui Patrício,12
+663,338670,Mile Svilar,12
+664,581604,Pietro Boer,12
+665,371149,Evan Ndicka,12
+666,256448,Gianluca Mancini,12
+667,103427,Chris Smalling,12
+668,246291,Diego Llorente,12
+669,371371,Marash Kumbulla,12
+670,118689,Leonardo Spinazzola,12
+671,369684,Rasmus Kristensen,12
+672,251075,Zeki Çelik,12
+673,205006,Rick Karsdorp,12
+674,199248,Bryan Cristante,12
+675,166237,Leandro Paredes,12
+676,258027,Renato Sanches,12
+677,395693,Houssem Aouar,12
+678,562049,Edoardo Bove,12
+679,659415,Riccardo Pagano,12
+680,550108,Nicola Zalewski,12
+681,286297,Lorenzo Pellegrini,12
+682,94529,Stephan El Shaarawy,12
+683,206050,Paulo Dybala,12
+684,96341,Romelu Lukaku,12
+685,331726,Tammy Abraham,12
+686,180337,Sardar Azmoun,12
+687,167727,Andrea Belotti,12
+688,459763,Marco Carnesecchi,800
+689,242359,Juan Musso,800
+690,126634,Francesco Rossi,800
+691,571604,Giorgio Scalvini,800
+692,165513,Berat Djimsiti,800
+693,94005,Sead Kolasinac,800
+694,72441,Rafael Tolói,800
+695,125020,José Luis Palomino,800
+696,360518,Teun Koopmeiners,800
+697,133179,Marten de Roon,800
+698,607854,Éderson,800
+699,564305,Michel Adopo,800
+700,496745,Emil Holm,800
+701,173859,Davide Zappacosta,800
+702,275303,Hans Hateboer,800
+703,392966,Nadir Zortea,800
+704,361065,Mitchel Bakker,800
+705,616631,Matteo Ruggeri,800
+706,435772,Charles De Ketelaere,800
+707,205938,Mario Pasalic,800
+708,255450,Aleksey Miranchuk,800
+709,406040,Ademola Lookman,800
+710,315867,Gianluca Scamacca,800
+711,649016,El Bilal Touré,800
+712,119228,Luis Muriel,800
+713,197929,Ivan Provedel,398
+714,99254,Luigi Sepe,398
+715,481675,Christos Mandas,398
+716,389837,Nicolò Casale,398
+717,197747,Alessio Romagnoli,398
+718,126729,Patric,398
+719,618341,Mario Gila,398
+720,239802,Adam Marusic,398
+721,346567,Luca Pellegrini,398
+722,465565,Dimitrije Kamenović,398
+723,200056,Elseid Hysaj,398
+724,525704,Nicolò Rovella,398
+725,199733,Danilo Cataldi,398
+726,465830,Mattéo Guendouzi,398
+727,128220,Luis Alberto,398
+728,143812,Matías Vecino,398
+729,334835,Toma Bašić,398
+730,331401,Manuel Lazzari,398
+731,356141,Daichi Kamada,398
+732,601577,André Anderson,398
+733,283735,Mattia Zaccagni,398
+734,873981,Diego González,398
+735,1026255,Saná Fernandes,398
+736,159372,Felipe Anderson,398
+737,462823,Gustav Isaksen,398
+738,65278,Pedro,398
+739,240349,Cristiano Lombardi,398
+740,105521,Ciro Immobile,398
+741,522784,Taty Castellanos,398
+742,471936,Oliver Christensen,430
+743,96254,Pietro Terracciano,430
+744,934159,Tommaso Martinelli,430
+745,988977,Tommaso Vannucchi,430
+746,413507,Nikola Milenković,430
+747,289446,Yerry Mina,430
+748,373373,Lucas Martínez Quarta,430
+749,346561,Luca Ranieri,430
+750,487829,Christian Dalle Mura,430
+751,746712,Pietro Comuzzo,430
+752,547985,Fabiano Parisi,430
+753,124555,Cristiano Biraghi,430
+754,401529,Dodô,430
+755,823486,Michael Kayode,430
+756,534084,Niccolò Pierozzi,430
+757,290862,Maxime López,430
+758,308279,Rolando Mandragora,430
+759,707450,Lorenzo Amatucci,430
+760,362842,Arthur Melo,430
+761,303116,Gaetano Castrovilli,430
+762,184894,Alfred Duncan,430
+763,831162,Gino Infantino,430
+764,57280,Giacomo Bonaventura,430
+765,272261,Antonin Barak,430
+766,337725,Christian Kouamé,430
+767,386455,Riccardo Sottil,430
+768,293169,Josip Brekalo,430
+769,486031,Nicolás González,430
+770,324690,Jonathan Ikoné,430
+771,628366,Lucas Beltrán,430
+772,354814,M'Bala Nzola,430
+773,257474,Vanja Milinković-Savić,416
+774,623412,Mihai Popa,416
+775,463792,Luca Gemello,416
+776,418543,Perr Schuurs,416
+777,386446,Alessandro Buongiorno,416
+778,544149,David Zima,416
+779,86784,Ricardo Rodríguez,416
+780,655456,Saba Sazonov,416
+781,183031,Koffi Djidji,416
+782,804799,Ange Caumenan N'Guessan,416
+783,467992,Samuele Ricci,416
+784,157507,Adrien Tamèze,416
+785,470794,Ivan Ilić,416
+786,225873,Karol Linetty,416
+787,798929,Gvidas Gineitis,416
+788,357992,Raoul Bellanova,416
+789,546880,Brandon Soppy,416
+790,186368,Valentino Lazaro,416
+791,336125,Mërgim Vojvoda,416
+792,293200,Nikola Vlašić,416
+793,245078,Nemanja Radonjić,416
+794,324804,Yann Karamoh,416
+795,551752,Demba Seck,416
+796,234523,Antonio Sanabria,416
+797,73794,Duván Zapata,416
+798,364133,Pietro Pellegri,416
+799,80894,Lukasz Skorupski,1025
+800,390304,Federico Ravaglia,1025
+801,818892,Nicola Bagnolini,1025
+802,413565,Jhon Lucumí,1025
+803,433984,Sam Beukema,1025
+804,126673,Adama Soumaoro,1025
+805,247377,Kevin Bonifazi,1025
+806,564529,Victor Kristiansen,1025
+807,502821,Riccardo Calafiori,1025
+808,818880,Tommaso Corazza,1025
+809,136514,Charalampos Lykogiannis,1025
+810,223974,Stefan Posch,1025
+811,33571,Lorenzo De Silvestri,1025
+812,316934,Nikola Moro,1025
+813,531065,Oussama El Azzouzi,1025
+814,148252,Remo Freuler,1025
+815,633668,Giovanni Fabbian,1025
+816,237658,Michel Aebischer,1025
+817,699442,Kacper Urbanski,1025
+818,428563,Lewis Ferguson,1025
+819,367992,Jesper Karlsson,1025
+820,368482,Riccardo Orsolini,1025
+821,381950,Alexis Saelemaekers,1025
+822,365108,Dan Ndoye,1025
+823,435648,Joshua Zirkzee,1025
+824,439292,Sydney van Hooijdonk,1025
+825,12907,Alessio Cragno,6574
+826,35865,Andrea Consigli,6574
+827,21872,Gianluca Pegolo,6574
+828,493702,Mattia Viti,6574
+829,357003,Martin Erlic,6574
+830,555015,Ruan Tressoldi,6574
+831,277167,Gian Marco Ferrari,6574
+832,439072,Matías Viña,6574
+833,583404,Marcus Pedersen,6574
+834,129674,Jeremy Toljan,6574
+835,650993,Filippo Missori,6574
+836,724106,Luca Lipani,6574
+837,552549,Matheus Henrique,6574
+838,441515,Daniel Boloca,6574
+839,417575,Uroš Račić,6574
+840,101213,Pedro Obiang,6574
+841,390177,Nedim Bajrami,6574
+842,564785,Kristian Thorstvedt,6574
+843,746891,Cristian Volpato,6574
+844,579930,Armand Laurienté,6574
+845,508371,Emil Konradsen Ceide,6574
+846,177843,Domenico Berardi,6574
+847,195171,Samu Castillejo,6574
+848,315865,Andrea Pinamonti,6574
+849,812625,Agustín Álvarez,6574
+850,457422,Samuele Mulattieri,6574
+851,163222,Grégoire Defrel,6574
+852,85528,Marco Silvestri,410
+853,340353,Maduka Okoye,410
+854,27807,Daniele Padelli,410
+855,491693,Nehuén Pérez,410
+856,371851,Jaka Bijol,410
+857,342877,Enzo Ebosse,410
+858,698259,Thomas Kristensen,410
+859,286949,Adam Masina,410
+860,81512,Christian Kabasele,410
+861,797791,Antonio Tikvic,410
+862,925584,Axel Guessand,410
+863,290017,Hassane Kamara,410
+864,633530,Jordan Zemura,410
+865,272812,Kingsley Ehizibue,410
+866,481623,João Ferreira,410
+867,323954,Walace,410
+868,854325,Etienne Camara,410
+869,528833,Lazar Samardžić,410
+870,268429,Sandi Lovrić,410
+871,555820,Martín Payero,410
+872,112302,Roberto Pereyra,410
+873,524010,Oier Zarraga,410
+874,391719,Domingos Quina,410
+875,586756,Festy Ebosele,410
+876,465279,Marco Ballarini,410
+877,876400,Simone Pafundi,410
+878,1009633,David Pejičić,410
+879,682032,Marley Aké,410
+880,184892,Florian Thauvin,410
+881,129476,Gerard Deulofeu,410
+882,412366,Brenner,410
+883,572265,Lorenzo Lucca,410
+884,295331,Isaac Success,410
+885,412660,Keinan Davis,410
+886,1014243,Vivaldo Semedo,410
+887,654949,Sekou Diawara,410
+888,388516,Josep Martínez,252
+889,136111,Nicola Leali,252
+890,312773,Daniele Sommariva,252
+891,818929,Simone Calvani,252
+892,568559,Radu Drăgușin,252
+893,490384,Koni De Winter,252
+894,532937,Johan Vásquez,252
+895,861981,Alan Matturro,252
+896,176139,Mattia Bani,252
+897,330208,Alessandro Vogliacco,252
+898,251878,Aarón Martín,252
+899,228444,Ridgeciano Haps,252
+900,237666,Silvan Hefti,252
+901,167491,Stefano Sabelli,252
+902,40633,Milan Badelj,252
+903,503871,Morten Frendrup,252
+904,226524,Morten Thorsby,252
+905,469787,Berkan Kutlu,252
+906,313830,Pablo Galdames,252
+907,242813,Filip Jagiello,252
+908,68864,Kevin Strootman,252
+909,207877,Ruslan Malinovskyi,252
+910,305947,Albert Gudmundsson,252
+911,449151,Junior Messias,252
+912,554903,Mateo Retegui,252
+913,208690,George Pușcaș,252
+914,199953,Caleb Ekuban,252
+915,301238,Michele Di Gregorio,2919
+916,244491,Stefano Gori,2919
+917,542588,Alessandro Sorrentino,2919
+918,85240,Eugenio Lamanna,2919
+919,210178,Pablo Marí,2919
+920,481834,Andrea Carboni,2919
+921,32113,Armando Izzo,2919
+922,616628,Giorgio Cittadini,2919
+923,88680,Luca Caldirola,2919
+924,55769,Danilo D'Ambrosio,2919
+925,357995,Davide Bettella,2919
+926,731491,Franco Carboni,2919
+927,461019,Samuele Birindelli,2919
+928,314965,Pedro Pereira,2919
+929,88684,Giulio Donati,2919
+930,332179,Matteo Pessina,2919
+931,197471,Roberto Gagliardini,2919
+932,355104,José Machín,2919
+933,170481,Jean-Daniel Akpa Akpro,2919
+934,659516,Warren Bondo,2919
+935,255838,Patrick Ciurria,2919
+936,311178,Georgios Kyriakopoulos,2919
+937,392959,Andrea Colpani,2919
+938,787618,Valentín Carboni,2919
+939,650966,Samuele Vignato,2919
+940,NULL,Papu Gómez,2919
+941,146752,Gianluca Caprari,2919
+942,347253,Dany Mota,2919
+943,487843,Lorenzo Colombo,2919
+944,215649,Mirko Maric,2919
+945,29559,Guillermo Ochoa,380
+946,22628,Benoît Costil,380
+947,55000,Vincenzo Fiorillo,380
+948,322655,Flavius Daniliuc,380
+949,487834,Lorenzo Pirola,380
+950,459655,Matteo Lovato,380
+951,450417,Dylan Bronn,380
+952,205054,Norbert Gyomber,380
+953,45314,Federico Fazio,380
+954,357796,Domagoj Bradaric,380
+955,250153,Pasquale Mazzocchi,380
+956,335147,Junior Sambia,380
+957,570466,Mateusz Legowski,380
+958,353796,Giulio Maggiore,380
+959,386552,Lassana Coulibaly,380
+960,406806,Emil Bohinen,380
+961,298635,Grigoris Kastanos,380
+962,25488,Antonio Candreva,380
+963,732507,Agustín Martegani,380
+964,448466,Jovane,380
+965,808224,Andres Sfait,380
+966,607226,Loum Tchaouna,380
+967,626913,Boulaye Dia,380
+968,418559,Erik Botheim,380
+969,929494,Chukwubuikem Ikwuemesi,380
+970,194549,Simy,380
+971,880054,Trivante Stewart,380
+972,421873,Elia Caprile,749
+973,301240,Samuele Perisan,749
+974,77825,Etrit Berisha,749
+975,728516,Lovro Stubljar,749
+976,435228,Ardian Ismajli,749
+977,345458,Sebastian Walukiewicz,749
+978,278531,Sebastiano Luperto,749
+979,745427,Gabriele Guarino,749
+980,111347,Lorenzo Tonelli,749
+981,336960,Giuseppe Pezzella,749
+982,469211,Liberato Cacace,749
+983,309944,Tyronne Ebuehi,749
+984,144143,Bartosz Bereszynski,749
+985,197473,Alberto Grassi,749
+986,295183,Răzvan Marin,749
+987,324377,Youssef Maleh,749
+988,257751,Simone Bastoni,749
+989,691482,Jacopo Fazzini,749
+990,467994,Luca Belardinelli,749
+991,489611,Filippo Ranocchia,749
+992,641537,Tommaso Baldanzi,749
+993,539134,Daniel Maldini,749
+994,203842,Viktor Kovalenko,749
+995,459151,Nicolò Cambiaghi,749
+996,241076,Emmanuel Gyasi,749
+997,550106,Matteo Cancellieri,749
+998,931567,Stiven Shpendi,749
+999,84765,Francesco Caputo,749
+1000,88683,Mattia Destro,749
+1001,241923,Lorenzo Montipò,276
+1002,240675,Simone Perilli,276
+1003,535881,Mattia Chiesa,276
+1004,127217,Alessandro Berardi,276
+1005,503075,Isak Hien,276
+1006,660860,Diego Coppola,276
+1007,310458,Giangiacomo Magnani,276
+1008,248732,Pawel Dawidowicz,276
+1009,644676,Bruno Amione,276
+1010,115763,Koray Günter,276
+1011,686965,Juan Cabal,276
+1012,567129,Josh Doig,276
+1013,73926,Davide Faraoni,276
+1014,398808,Martin Hongla,276
+1015,1082519,Charlys,276
+1016,776737,Joselito,276
+1017,261905,Suat Serdar,276
+1018,377042,Michael Folorunsho,276
+1019,265625,Ajdin Hrustić,276
+1020,631007,Filippo Terracciano,276
+1021,848509,Jackson Tchatchoua,276
+1022,70411,Darko Lazović,276
+1023,232418,Ondrej Duda,276
+1024,88909,Riccardo Saponara,276
+1025,540333,Tomas Suslov,276
+1026,358032,Cyril Ngonge,276
+1027,623040,Yayah Kallon,276
+1028,331498,Jordi Mboula,276
+1029,412513,Thomas Henry,276
+1030,241527,Federico Bonazzoli,276
+1031,470391,Jayden Braaf,276
+1032,67556,Milan Djuric,276
+1033,748316,Juan Manuel Cruz,276
+1034,238537,Wladimiro Falcone,1005
+1035,451154,Federico Brancolini,1005
+1036,667640,Alexandru Borbei,1005
+1037,712911,Jasper Samooja,1005
+1038,351955,Federico Baschirotto,1005
+1039,282144,Marin Pongracic,1005
+1040,325924,Ahmed Touba,1005
+1041,163647,Kastriot Dermaku,1005
+1042,958649,Zinedin Smajlovic,1005
+1043,926952,Patrick Dorgu,1005
+1044,392516,Antonino Gallo,1005
+1045,569387,Valentin Gendrey,1005
+1046,240219,Lorenzo Venuti,1005
+1047,236041,Alexis Blin,1005
+1048,442703,Ylber Ramadani,1005
+1049,651002,Giacomo Faticanti,1005
+1050,692209,Joan González,1005
+1051,911328,Mohamed Kaba,1005
+1052,671542,Daniel Samek,1005
+1053,418571,Hamza Rafia,1005
+1054,583046,Medon Berisha,1005
+1055,399543,Rémi Oudin,1005
+1056,545538,Lameck Banda,1005
+1057,82048,Nicola Sansone,1005
+1058,291276,Marcin Listkowski,1005
+1059,457673,Gabriel Strefezza,1005
+1060,300532,Pontus Almqvist,1005
+1061,709985,Jeppe Corfitzen,1005
+1062,434433,Nikola Krstović,1005
+1063,432092,Roberto Piccoli,1005
+1064,731525,Rareș Burnete,1005
+1065,238993,Simone Scuffet,1390
+1066,258482,Boris Radunović,1390
+1067,41912,Simone Aresti,1390
+1068,144244,Pantelis Hatzidiakos,1390
+1069,208172,Mateusz Wieteska,1390
+1070,385394,Alberto Dossena,1390
+1071,568333,Adam Obert,1390
+1072,238947,Elio Capradossi,1390
+1073,242940,Edoardo Goldaniga,1390
+1074,284595,Tommaso Augello,1390
+1075,310527,Paulo Azzi,1390
+1076,392569,Gabriele Zappa,1390
+1077,457674,Alessandro Di Pardo,1390
+1078,876298,Matteo Prati,1390
+1079,982267,Ibrahim Sulemana,1390
+1080,460651,Antoine Makoumbou,1390
+1081,315063,Nahitan Nández,1390
+1082,235931,Alessandro Deiola,1390
+1083,317482,Marko Rog,1390
+1084,85393,Nicolas Viola,1390
+1085,319160,Jakub Jankto,1390
+1086,613393,Gaetano Oristanio,1390
+1087,264116,Gastón Pereiro,1390
+1088,51736,Marco Mancosu,1390
+1089,610878,Jacopo Desogus,1390
+1090,199258,Andrea Petagna,1390
+1091,358166,Eldor Shomurodov,1390
+1092,666547,Zito Luvumbo,1390
+1093,130394,Gianluca Lapadula,1390
+1094,64793,Leonardo Pavoletti,1390
+1095,543666,Stefano Turati,8970
+1096,370701,Michele Cerofolini,8970
+1097,457859,Michele Avella,8970
+1098,43217,Pierluigi Frattali,8970
+1099,461833,Caleb Okoli,8970
+1100,550116,Ilario Monterisi,8970
+1101,88706,Simone Romagnoli,8970
+1102,457237,Sergio Kalaj,8970
+1103,1159022,Mateus Lusuardi,8970
+1104,297645,Riccardo Marchizza,8970
+1105,298975,Pol Lirola,8970
+1106,804812,Anthony Oyono,8970
+1107,226025,Luca Mazzitelli,8970
+1108,671915,Enzo Barrenechea,8970
+1109,131731,Mehdi Bourabia,8970
+1110,416386,Abdou Harroui,8970
+1111,459128,Marco Brescianini,8970
+1112,240252,Karlo Lulic,8970
+1113,627226,Reinier,8970
+1114,205677,Luca Garritano,8970
+1115,337811,Francesco Gelli,8970
+1116,398030,Giuseppe Caso,8970
+1117,238654,Jaime Báez,8970
+1118,744728,Arijon Ibrahimovic,8970
+1119,412758,Giorgi Kvernadze,8970
+1120,90118,Soufiane Bidaoui,8970
+1121,668951,Matías Soulé,8970
+1122,521407,Walid Cheddira,8970
+1123,620477,Kaio Jorge,8970
+1124,453864,Marvin Cuni,8970
+1125,315121,Justin Bijlow,234
+1126,196829,Timon Wellenreuther,234
+1127,646708,Mikki van Sas,234
+1128,64352,Kostas Lamprou,234
+1129,404418,David Hancko,234
+1130,59145,Gernot Trauner,234
+1131,593862,Thomas Beelen,234
+1132,514285,Quilindschy Hartman,234
+1133,432175,Marcos López,234
+1134,420210,Lutsharel Geertruida,234
+1135,257987,Bart Nieuwkoop,234
+1136,415381,Mats Wieffer,234
+1137,416660,Ramiz Zerrouki,234
+1138,412941,Thomas van den Belt,234
+1139,571149,Gjivai Zechiël,234
+1140,420213,Quinten Timber,234
+1141,683620,Antoni Milambo,234
+1142,409344,Calvin Stengs,234
+1143,321195,Ondrej Lingr,234
+1144,653610,Igor Paixão,234
+1145,387105,Luka Ivanusec,234
+1146,710886,Leo Sauer,234
+1147,1012534,Yankuba Minteh,234
+1148,213268,Alireza Jahanbakhsh,234
+1149,315125,Javairô Dilrosun,234
+1150,552955,Santiago Gimenez,234
+1151,589128,Ayase Ueda,234
+1152,296802,Walter Benítez,383
+1153,333640,Joël Drommel,383
+1154,654919,Kjell Peersman,383
+1155,4391,Boy Waterman,383
+1156,467563,Armel Bella-Kotchap,383
+1157,318508,Olivier Boscagli,383
+1158,339337,Armando Obispo,383
+1159,175792,André Ramalho,383
+1160,323910,Mauro Júnior,383
+1161,52119,Patrick van Aanholt,383
+1162,539665,Fredrik Oppegård,383
+1163,361104,Sergiño Dest,383
+1164,364245,Jordan Teze,383
+1165,412937,Shurandy Sambo,383
+1166,347900,Jerdy Schouten,383
+1167,408574,Joey Veerman,383
+1168,467437,Malik Tillman,383
+1169,372267,Guus Til,383
+1170,702869,Ismael Saibari,383
+1171,813437,Isaac Babadi,383
+1172,339332,Noa Lang,383
+1173,565424,Johan Bakayoko,383
+1174,316889,Hirving Lozano,383
+1175,627207,Ricardo Pepi,383
+1176,72522,Luuk de Jong,383
+1177,409517,Yorbe Vertessen,383
+1178,738478,Jason van Duiven,383
+1179,229604,Gerónimo Rulli,610
+1180,480453,Jay Gorter,610
+1181,448705,Diant Ramaj,610
+1182,635129,Charlie Setford,610
+1183,25520,Remko Pasveer,610
+1184,371001,Josip Sutalo,610
+1185,904802,Jorrel Hato,610
+1186,662131,Ahmetcan Kaplan,610
+1187,488755,Jakov Medic,610
+1188,293194,Borna Sosa,610
+1189,748601,Gastón Ávila,610
+1190,485584,Anass Salah-Eddine,610
+1191,572519,Ar'jany Martha,610
+1192,557407,Devyne Rensch,610
+1193,701055,Anton Gaaei,610
+1194,510310,Sivert Mannsverk,610
+1195,787907,Benjamin Tahirovic,610
+1196,738476,Silvano Vos,610
+1197,470394,Kenneth Taylor,610
+1198,203938,Branco van den Boomen,610
+1199,694186,Kristian Hlynsson,610
+1200,284165,Steven Bergwijn,610
+1201,742451,Carlos Forbs,610
+1202,748804,Mika Godts,610
+1203,704773,Amourricho van Axel Dongen,610
+1204,129554,Steven Berghuis,610
+1205,473169,Brian Brobbey,610
+1206,197642,Chuba Akpom,610
+1207,729814,Georges Mikautadze,610
+1208,128969,Mathew Ryan,1090
+1209,116471,Hobie Verhulst,1090
+1210,595935,Sem Westerveld,1090
+1211,704772,Rome Jayden Owusu-Oduro,1090
+1212,479643,Alexandre Penetra,1090
+1213,216443,Riechedly Bazoer,1090
+1214,646707,Wouter Goes,1090
+1215,112052,Bruno Martins Indi,1090
+1216,646704,Maxim Dekker,1090
+1217,661427,David Møller Wolfe,1090
+1218,315254,Mees de Wit,1090
+1219,405385,Yukinari Sugawara,1090
+1220,577394,Denso Kasius,1090
+1221,104223,Jordy Clasie,1090
+1222,429987,Tiago Dantas,1090
+1223,801031,Lewis Schouten,1090
+1224,578804,Sven Mijnans,1090
+1225,340459,Dani de Wit,1090
+1226,484756,Djordje Mihailovic,1090
+1227,412943,Kenzo Goudmijn,1090
+1228,650712,Myron van Brederode,1090
+1229,735701,Ruben van Bommel,1090
+1230,345590,Jens Odgaard,1090
+1231,543501,Ibrahim Sadiq,1090
+1232,795274,Mayckel Lahdo,1090
+1233,324503,Vangelis Pavlidis,1090
+1234,678546,Mexx Meerdink,1090
+1235,718303,Ernest Poku,1090
+1236,53696,Lars Unnerstall,317
+1237,33210,Przemyslaw Tyton,317
+1238,430475,Issam El Maach,317
+1239,703779,Sam Karssies,317
+1240,562702,Mees Hilgers,317
+1241,202788,Robin Pröpper,317
+1242,405892,Alec Van Hoorenbeeck,317
+1243,618086,Max Bruns,317
+1244,895089,Juliën Mesbahi,317
+1245,374212,Gijs Smal,317
+1246,983677,Mats Rots,317
+1247,207006,Joshua Brenet,317
+1248,332530,Alfons Sampsted,317
+1249,528652,Mathias Kjølø,317
+1250,321204,Michal Sadilek,317
+1251,559324,Youri Regeer,317
+1252,315128,Carel Eiting,317
+1253,704075,Gijs Besselink,317
+1254,342702,Michel Vlap,317
+1255,593519,Sem Steijn,317
+1256,866328,Younes Taha,317
+1257,508639,Naci Ünüvar,317
+1258,393239,Mitchell van Bergen,317
+1259,591363,Daan Rots,317
+1260,645173,Manfred Ugalde,317
+1261,41355,Ricky van Wolfswinkel,317
+1262,248658,Vasilios Barkas,200
+1263,205128,Mattijs Branderhorst,200
+1264,485588,Calvin Raatsie,200
+1265,524925,Modibo Sagnan,200
+1266,586429,Ryan Flamingo,200
+1267,187105,Mike van der Hoorn,200
+1268,93081,Nick Viergever,200
+1269,541134,Souffian El Karouani,200
+1270,541020,Yannick Leliendal,200
+1271,668276,Hugo Novoa,200
+1272,258519,Hidde ter Avest,200
+1273,128042,Mark van der Maarel,200
+1274,134999,Jens Toornstra,200
+1275,406609,Can Bozdoğan,200
+1276,610428,Oscar Fraulo,200
+1277,686845,Zidane Iqbal,200
+1278,326701,Bart Ramselaar,200
+1279,123349,Zakaria Labyad,200
+1280,400548,Victor Jensen,200
+1281,481117,Othmane Boussaid,200
+1282,875581,Adrian Blake,200
+1283,513963,Taylor Booth,200
+1284,412959,Marouan Azarkan,200
+1285,361070,Ole Romeny,200
+1286,187809,Mats Seuntjens,200
+1287,322073,Isac Lidberg,200
+1288,565434,Anthony Descotte,200
+1289,276853,Andries Noppert,306
+1290,207048,Mickey van der Hart,306
+1291,725816,Bernt Klaverboer,306
+1292,312473,Jan Bekkema,306
+1293,248395,Pawel Bochniewicz,306
+1294,256718,Sven van Beek,306
+1295,485586,Syb van Ottele,306
+1296,288067,Mats Köhlert,306
+1297,412949,Denzel Hall,306
+1298,585325,Hussein Ali,306
+1299,869067,Oliver Braude,306
+1300,178219,Thom Haye,306
+1301,369552,Luuk Brouwers,306
+1302,321158,Simon Olsson,306
+1303,308265,Anas Tahiri,306
+1304,697278,Charlie Webster,306
+1305,590775,Djenahro Nunumete,306
+1306,262613,Pelle van Amersfoort,306
+1307,580657,Osame Sahraoui,306
+1308,721470,Patrik Walemark,306
+1309,326030,Ché Nunnely,306
+1310,661205,Daniel Karlsbakk,306
+1311,438310,Ion Nicolaescu,306
+1312,146227,Jasper Cillessen,467
+1313,646991,Robin Roefs,467
+1314,593163,Rijk Janse,467
+1315,340460,Philippe Sandler,467
+1316,545331,Mathias Ross,467
+1317,104597,Bram Nuytinck,467
+1318,NULL,Luc Netten,467
+1319,559327,Youri Baas,467
+1320,258364,Calvin Verdonk,467
+1321,547499,Bart van Rooij,467
+1322,620317,Brayann Pereira,467
+1323,172779,Sai van Wermeskerken,467
+1324,485587,Dirk Proper,467
+1325,315233,Mees Hoedemakers,467
+1326,34784,Lasse Schöne,467
+1327,575978,Daan Maas,467
+1328,694039,Nils Rossen,467
+1329,957544,Kodai Sano,467
+1330,505675,Rober González,467
+1331,489929,Magnus Mattsson,467
+1332,576098,Kas de Wit,467
+1333,750886,Alexis Tibidi,467
+1334,432682,Lars Olden Larsen,467
+1335,NULL,Selim Can Sönmez,467
+1336,462086,Elayis Tavsan,467
+1337,485582,Sontje Hansen,467
+1338,56331,Bas Dost,467
+1339,351567,Koki Ogawa,467
+1340,215094,Nick Olij,468
+1341,159143,Delano van Crooij,468
+1342,531712,Youri Schoonderwaldt,468
+1343,810846,Kaylen Reitmaier,468
+1344,482141,Mike Eerdhuijzen,468
+1345,568377,Tijs Velthuis,468
+1346,129991,Bart Vriends,468
+1347,596178,Rick Meissen,468
+1348,288449,Django Warmerdam,468
+1349,596148,Djevencio van der Kust,468
+1350,524687,Saïd Bakari,468
+1351,466797,Sergi Rosanas,468
+1352,639368,Dylan van Wageningen,468
+1353,31067,Jonathan de Guzmán,468
+1354,432694,Joshua Kitolano,468
+1355,859396,Metinho,468
+1356,297693,Pelle Clement,468
+1357,250591,Arno Verschueren,468
+1358,699771,Pedro Alemañ,468
+1359,501743,Koki Saito,468
+1360,860812,Agustín Anello,468
+1361,587588,Camiel Neghli,468
+1362,272206,Tobias Lauritsen,468
+1363,595028,Charles-Andreas Brym,468
+1364,79294,Eloy Room,499
+1365,296741,Markus Schubert,499
+1366,738480,Tom Bramel,499
+1367,436064,Ramon Hendriks,499
+1368,353559,Dominik Oroz,499
+1369,607164,Enzo Cornelisse,499
+1370,147846,Nicolas Isimat-Mirin,499
+1371,805149,Giovanni van Zwam,499
+1372,177866,Mica Pinto,499
+1373,371686,Carlens Arcus,499
+1374,1030525,Mats Egbring,499
+1375,426280,Melle Meulensteen,499
+1376,554284,Kacper Kozlowski,499
+1377,147034,Marco van Ginkel,499
+1378,344649,Toni Domgjoni,499
+1379,608889,Mathijs Tielemans,499
+1380,79027,Davy Pröpper,499
+1381,607173,Jordi Altena,499
+1382,747243,Gyan de Regt,499
+1383,564449,Million Manhoef,499
+1384,723008,Miliano Jonathans,499
+1385,652996,Said Hamulic,499
+1386,651977,Amine Boutrah,499
+1387,357826,Thomas Buitink,499
+1388,647534,Joel Voelkerling Persson,499
+1389,594039,Fodé Fofana,499
+1390,602597,Simon van Duivenbooden,499
+1391,301696,Stijn van Gassel,798
+1392,278938,Norbert Alblas,798
+1393,796490,Pascal Kuiper,798
+1394,361207,Kik Pierie,798
+1395,605395,Casper Widell,798
+1396,480730,Redouan El Yaakoubi,798
+1397,618038,Serano Seymor,798
+1398,187291,Sven Nieuwpoort,798
+1399,536477,Arthur Zagré,798
+1400,361083,Ian Smeulers,798
+1401,314915,Siebe Horemans,798
+1402,591880,Mimeirhel Benita,798
+1403,595238,Lennard Hartjes,798
+1404,379979,Adrian Fein,798
+1405,559333,Kian Fitz-Jim,798
+1406,616340,Julian Baas,798
+1407,182573,Yassin Ayoub,798
+1408,632088,Cisse Sandra,798
+1409,578544,Noah Naujoks,798
+1410,593837,Couhaib Driouech,798
+1411,292356,Lazaros Lamprou,798
+1412,553217,Jacky Donkor,798
+1413,585334,Oscar Uddenäs,798
+1414,608407,Derensili Sanches Fernandes,798
+1415,552655,Troy Parrott,798
+1416,477274,Nikolas Agrafiotis,798
+1417,764863,Richie Omorowa,798
+1418,183397,Mike van Duinen,798
+1419,808646,Raphaël Eyongo,798
+1420,371013,Ivor Pandur,385
+1421,235108,Luuk Koopmans,385
+1422,687560,Tom Hendriks,385
+1423,492313,Rodrigo Guth,385
+1424,644613,Sadik Fofana,385
+1425,52403,Dimitrios Siovas,385
+1426,460845,Siemen Voet,385
+1427,187245,Mitchell Dijks,385
+1428,805835,Rémy Vita,385
+1429,82281,Ivo Pinto,385
+1430,451576,Nathan Markelo,385
+1431,586855,Loreintz Rosier,385
+1432,432852,Deroy Duarte,385
+1433,77966,Oğuzhan Özyakup,385
+1434,226074,Alen Halilovic,385
+1435,247380,Arianit Ferati,385
+1436,251848,Iñigo Córdoba,385
+1437,410854,Ragnar Oratmangoen,385
+1438,457736,Tijjani Noslin,385
+1439,515396,Iman Griffith,385
+1440,913022,Milan Robberechts,385
+1441,698548,Marko Lazetić,385
+1442,315283,Kaj Sierhuis,385
+1443,394127,Mouhamed Belkheir,385
+1444,315253,Jeffrey de Lange,1435
+1445,56631,Erwin Mulder,1435
+1446,690624,Sven Jansen,1435
+1447,783017,Nando Verdoni,1435
+1448,289651,Jamal Amofa,1435
+1449,326329,Joris Kramer,1435
+1450,85904,Gerrit Nauber,1435
+1451,187188,Bas Kuipers,1435
+1452,529223,Dean James,1435
+1453,451673,Aventis Aventisian,1435
+1454,369554,Mats Deijl,1435
+1455,588744,Luca Everink,1435
+1456,624698,Pim Saathof,1435
+1457,361112,Evert Linthorst,1435
+1458,412945,Enric Llansana,1435
+1459,496873,Xander Blomme,1435
+1460,340791,Philippe Rommens,1435
+1461,455127,Willum Thór Willumsson,1435
+1462,374326,Oliver Valaker Edvardsen,1435
+1463,343184,Sylla Sow,1435
+1464,657957,Jakob Breum,1435
+1465,315130,Rashaan Fernandes,1435
+1466,834768,Darío Serra,1435
+1467,331514,Bobby Adekanye,1435
+1468,265324,Victor Edvardsen,1435
+1469,486043,Thibo Baeten,1435
+1470,241486,Finn Stokkers,1435
+1471,361082,Jasper Schendelaar,1269
+1472,30290,Kenneth Vermeer,1269
+1473,297373,Mike Hauptmeijer,1269
+1474,933570,Duke Verduin,1269
+1475,131821,Thomas Lam,1269
+1476,631904,Anselmo García MacNulty,1269
+1477,430797,Sam Kersten,1269
+1478,593774,Anouar El Azzouzi,1269
+1479,41583,Bram van Polen,1269
+1480,309393,Lennart Czyborra,1269
+1481,443746,Luis Görlich,1269
+1482,806384,Nick Fichtinger,1269
+1483,203357,Ryan Thomas,1269
+1484,361066,Davy van den Berg,1269
+1485,595940,Zico Buurmeester,1269
+1486,530258,Dean Huiberts,1269
+1487,227039,Younes Namli,1269
+1488,447216,Anthony Fontana,1269
+1489,360520,Odysseus Velanas,1269
+1490,538057,Eliano Reijnders,1269
+1491,564620,Samir Lagsir,1269
+1492,668183,Nico Serrano,1269
+1493,648887,Divaio Bobson,1269
+1494,360519,Ferdy Druijf,1269
+1495,23553,Lennart Thy,1269
+1496,124495,Tolis Vellios,1269
+1497,534015,Nordin Bakker,723
+1498,77563,Samuel Sahin-Radlinger,723
+1499,458417,Stijn Keller,723
+1500,463610,Loïc Mbe Soh,723
+1501,241420,Damian van Bruggen,723
+1502,484987,Théo Barbet,723
+1503,361124,Joey Jacobs,723
+1504,477249,Christopher Mamengi,723
+1505,351216,Manel Royo,723
+1506,315211,Sherel Floranus,723
+1507,590773,Hamdi Akujobi,723
+1508,361074,Peer Koopmeiners,723
+1509,156887,Álvaro Peña,723
+1510,90343,Danny Post,723
+1511,793099,Stije Resink,723
+1512,865281,Jochem Ritmeester van de Kamp,723
+1513,706896,Marcelencio Esajas,723
+1514,378316,Lance Duijvestijn,723
+1515,547354,Pascu,723
+1516,338632,Milan Corryn,723
+1517,782476,Yoann Cathline,723
+1518,730573,Faiz Mattoir,723
+1519,77001,Rajiv van La Parra,723
+1520,361071,Bradly van Hoeven,723
+1521,395677,Yann Kitala,723
+1522,290615,Thomas Robinet,723
+1523,432698,Kornelius Hansen,723
+1524,462285,Fabian de Keijzer,1304
+1525,231650,Michael Brouwer,1304
+1526,463526,Robin Jalving,1304
+1527,703778,Timo Jansink,1304
+1528,411287,Justin Hoogma,1304
+1529,339151,Sven Sonnenberg,1304
+1530,936571,Stijn Bultman,1304
+1531,464906,Sava-Arangel Cestic,1304
+1532,146258,Jetro Willems,1304
+1533,538963,Ruben Roosken,1304
+1534,703775,Chiel Olde Keizer,1304
+1535,339330,Navajo Bakboord,1304
+1536,447801,Jannes Wieckhoff,1304
+1537,150663,Sylian Mokono,1304
+1538,429916,Brian De Keersmaecker,1304
+1539,59594,Marko Vejinović,1304
+1540,618083,Sem Scheperman,1304
+1541,172202,Thomas Bruns,1304
+1542,240889,Anas Ouahim,1304
+1543,391555,Melih Ibrahimoglu,1304
+1544,276002,Emil Hansson,1304
+1545,502288,Bryan Limbombe,1304
+1546,455662,Abdenego Nankishi,1304
+1547,618102,Lasse Wehmeyer,1304
+1548,290555,Nikolai Laursen,1304
+1549,572919,Mohamed Sankoh,1304
+1550,185817,Jizz Hornkamp,1304
+1551,93637,Mario Engels,1304
+1552,679414,Antonio Satriano,1304
+1553,989998,Diego van Oorschot,1304
+1554,620295,Mio Backhaus,724
+1555,434861,Barry Lauwers,724
+1556,790669,Kayne van Oevelen,724
+1557,640432,Xavier Mbuyamba,724
+1558,387199,Benaissa Benamar,724
+1559,474838,Brian Plat,724
+1560,257986,Damon Mirani,724
+1561,638666,Josh Flint,724
+1562,1008564,Billy van Duijl,724
+1563,359692,George Cox,724
+1564,293283,Oskar Buur,724
+1565,790411,Deron Payne,724
+1566,516761,Achraf Douiri,724
+1567,612758,Calvin Twigt,724
+1568,467616,Luke Le Roux,724
+1569,746838,Zach Booth,724
+1570,765468,Milan de Haan,724
+1571,929347,Imran Nazih,724
+1572,790482,Flip Klomp,724
+1573,702856,Joey Antonioli,724
+1574,250030,Robin Maulun,724
+1575,1046796,Diego Gustavo,724
+1576,508642,Ibrahim El Kadiri,724
+1577,672100,Darius Johnson,724
+1578,967948,Garang Kuol,724
+1579,241324,Bilal Ould-Chikh,724
+1580,186763,Robert Mühren,724
+1581,728864,Lequincio Zeefuik,724
+1582,727531,Koen Blommestijn,724
+1583,NULL,Quincy Hoeve,724
+1584,387197,Etienne Vaessen,235
+1585,257980,Jeroen Houwen,235
+1586,383705,Mark Spenkelink,235
+1587,471691,Joey Kesting,235
+1588,358021,Shawn Adewoye,235
+1589,235274,Dario Van den Buijs,235
+1590,328455,Juriën Gaari,235
+1591,88721,Jeffrey Bruma,235
+1592,416802,Thierry Lutonda,235
+1593,56836,Aaron Meijers,235
+1594,337673,Julian Lelieveld,235
+1595,247633,Raz Meir,235
+1596,393241,Godfried Roemeratoe,235
+1597,433933,Kevin Felida,235
+1598,566911,Yassin Oukili,235
+1599,433805,Patrick Vroegh,235
+1600,808578,Daouda Weidmann,235
+1601,671675,Chris Lokesa,235
+1602,443308,Reuven Niemeijer,235
+1603,503635,Nouri El Harmazi,235
+1604,627750,Filip Stevanović,235
+1605,203378,Zakaria Bakkali,235
+1606,488768,Ilias Takidine,235
+1607,582131,Denilho Cleonise,235
+1608,56523,Michiel Kramer,235
+1609,604813,David Min,235
+1610,465326,Richonell Margaret,235
+1611,315858,Gianluigi Donnarumma,583
+1612,466783,Arnau Tenas,583
+1613,79422,Keylor Navas,583
+1614,207302,Sergio Rico,583
+1615,93730,Alexandre Letellier,583
+1616,181767,Marquinhos,583
+1617,204069,Milan Skriniar,583
+1618,281963,Lucas Hernández,583
+1619,282041,Presnel Kimpembe,583
+1620,616341,Nuno Mendes,583
+1621,126710,Layvin Kurzawa,583
+1622,398073,Achraf Hakimi,583
+1623,348026,Nordi Mukiele,583
+1624,476701,Manuel Ugarte,583
+1625,141050,Danilo Pereira,583
+1626,810092,Warren Zaïre-Emery,583
+1627,487469,Vitinha,583
+1628,350219,Fabián Ruiz,583
+1629,372246,Carlos Soler,583
+1630,651005,Cher Ndour,583
+1631,903666,Ethan Mbappé,583
+1632,557149,Kang-in Lee,583
+1633,342229,Kylian Mbappé,583
+1634,296622,Marco Asensio,583
+1635,288230,Ousmane Dembélé,583
+1636,708265,Bradley Barcola,583
+1637,487969,Randal Kolo Muani,583
+1638,550550,Gonçalo Ramos,583
+1639,709726,Hugo Ekitiké,583
+1640,251322,Philipp Köhn,162
+1641,346546,Radoslaw Majecki,162
+1642,745341,Yann Lienard,162
+1643,563963,Mohammed Salisu,162
+1644,648779,Wilfried Singo,162
+1645,249730,Guillermo Maripán,162
+1646,745181,Soungoutou Magassa,162
+1647,569383,Chrislain Matsima,162
+1648,420064,Caio Henrique,162
+1649,375137,Ismail Jakobs,162
+1650,947360,Kassoum Ouattara,162
+1651,789082,Vanderson,162
+1652,543382,Mohamed Camara,162
+1653,334526,Denis Zakaria,162
+1654,569598,Youssouf Fofana,162
+1655,535834,Eliot Matazo,162
+1656,745178,Edan Diop,162
+1657,263918,Aleksandr Golovin,162
+1658,810895,Eliesse Ben Seghir,162
+1659,745200,Maghnes Akliouche,162
+1660,165793,Takumi Minamino,162
+1661,490426,Krépin Diatta,162
+1662,257448,Gelson Martins,162
+1663,503770,Folarin Balogun,162
+1664,237662,Breel Embolo,162
+1665,146854,Wissam Ben Yedder,162
+1666,412932,Myron Boadu,162
+1667,193256,Gauthier Gallon,273
+1668,23951,Steve Mandanda,273
+1669,72414,Geoffrey Lembet,273
+1670,368891,Arthur Theate,273
+1671,711996,Warmed Omari,273
+1672,919515,Jeanuël Belocian,273
+1673,572326,Christopher Wooh,273
+1674,844299,Mohamed Jaouab,273
+1675,1004301,Jérémy Jacquet,273
+1676,654539,Adrien Truffert,273
+1677,711969,Lorenz Assignon,273
+1678,711980,Guéla Doué,273
+1679,285323,Baptiste Santamaria,273
+1680,74683,Nemanja Matic,273
+1681,266359,Benjamin Bourigeaud,273
+1682,288225,Ludovic Blas,273
+1683,633992,Enzo Le Fée,273
+1684,507341,Fabian Rieder,273
+1685,914562,Désiré Doué,273
+1686,418659,Amine Gouiri,273
+1687,442891,Martin Terrier,273
+1688,928323,Ibrahim Salah,273
+1689,585959,Arnaud Kalimuendo,273
+1690,672803,Bertuğ Yıldırım,273
+1691,979766,Mathis Lambourde,273
+1692,286415,Pau López,244
+1693,199321,Rubén Blanco,244
+1694,696600,Simon Ngapandouetnbu,244
+1695,727086,Jelle Van Neck,244
+1696,203348,Chancel Mbemba,244
+1697,276896,Samuel Gigot,244
+1698,575998,Leonardo Balerdi,244
+1699,807165,Bamo Meïté,244
+1700,476352,Renan Lodi,244
+1701,175639,Jonathan Clauss,244
+1702,354482,Amir Murillo,244
+1703,127189,Geoffrey Kondogbia,244
+1704,485963,Pape Gueye,244
+1705,332889,Valentin Rongier,244
+1706,164771,Jordan Veretout,244
+1707,593482,Azzedine Ounahi,244
+1708,659520,Bilal Nadir,244
+1709,372711,Amine Harit,244
+1710,410225,Ismaïla Sarr,244
+1711,1027216,François Mughe,244
+1712,913495,Emran Soglo,244
+1713,227081,Joaquín Correa,244
+1714,623570,Iliman Ndiaye,244
+1715,586853,Vitinha,244
+1716,58864,Pierre-Emerick Aubameyang,244
+1717,465955,Marcin Bulka,417
+1718,25508,Salvatore Sirigu,417
+1719,789419,Teddy Boulhendi,417
+1720,605184,Jean-Clair Todibo,417
+1721,16136,Dante,417
+1722,1075574,Amidou Doumbouya,417
+1723,904707,Yannis Nahounou,417
+1724,318523,Romain Perraud,417
+1725,532775,Melvin Bard,417
+1726,860051,Ayoub Amraoui,417
+1727,313094,Jordan Lotomba,417
+1728,416108,Youcef Atal,417
+1729,891998,Antoine Mendy,417
+1730,674612,Youssouf Ndayishimiye,417
+1731,370791,Pablo Rosario,417
+1732,539065,Alexis Beka Beka,417
+1733,982855,Reda Belahyane,417
+1734,463618,Khéphren Thuram,417
+1735,560593,Hicham Boudaoui,417
+1736,174094,Morgan Sanson,417
+1737,750904,Tom Louchet,417
+1738,986300,Daouda Traoré,417
+1739,384593,Alexis Claude-Maurice,417
+1740,569389,Sofiane Diop,417
+1741,216569,Jérémie Boga,417
+1742,666977,Aliou Baldé,417
+1743,707242,Badredine Bouanani,417
+1744,538874,Terem Moffi,417
+1745,181378,Gaëtan Laborde,417
+1746,500689,Evann Guessand,417
+1747,463600,Lucas Chevalier,1082
+1748,33781,Vito Mannone,1082
+1749,258267,Adam Jakubech,1082
+1750,923831,Leny Yoro,1082
+1751,420465,Tiago Djaló,1082
+1752,648020,Alexsandro,1082
+1753,126540,Samuel Umtiti,1082
+1754,362108,Gabriel Gudmundsson,1082
+1755,124028,Ismaily,1082
+1756,463605,Bafodé Diakité,1082
+1757,816580,Tiago Santos,1082
+1758,327863,Akim Zedadka,1082
+1759,84301,Benjamin André,1082
+1760,836518,Ignacio Miramón,1082
+1761,392770,Angel Gomes,1082
+1762,245537,Nabil Bentaleb,1082
+1763,386726,Yusuf Yazıcı,1082
+1764,113707,Rémy Cabella,1082
+1765,NULL,Ayyoub Bouaddi,1082
+1766,652275,Hákon Arnar Haraldsson,1082
+1767,654415,Alan Virginius,1082
+1768,149716,Ivan Cavaleiro,1082
+1769,496857,Edon Zhegrova,1082
+1770,400485,Adam Ounas,1082
+1771,533738,Jonathan David,1082
+1772,191056,Brice Samba,826
+1773,373714,Wuilker Fariñez,826
+1774,27490,Jean-Louis Leca,826
+1775,804829,Yannick Pandor,826
+1776,263236,Kevin Danso,826
+1777,474800,Facundo Medina,826
+1778,126557,Jonathan Gradit,826
+1779,763079,Abdukodir Khusanov,826
+1780,357072,Faitout Maouassa,826
+1781,332560,Deiver Machado,826
+1782,170929,Massadio Haidara,826
+1783,203746,Ruben Aguilar,826
+1784,688707,Salis Abdul Samed,826
+1785,111051,Nampalys Mendy,826
+1786,711976,Andy Diouf,826
+1787,901019,Neil El Aynaoui,826
+1788,239743,Przemyslaw Frankowski,826
+1789,206912,Jimmy Cabot,826
+1790,250013,Angelo Fulgini,826
+1791,719442,David Pereira da Costa,826
+1792,215977,Adrien Thomasson,826
+1793,977877,Ayanda Sishuba,826
+1794,1052885,Nolan Bonte,826
+1795,975689,Óscar Cortés,826
+1796,691786,Morgan Guilavogui,826
+1797,659542,Elye Wahi,826
+1798,354726,Florian Sotoca,826
+1799,182916,Wesley Saïd,826
+1800,804884,Ibrahima Baldé,826
+1801,60561,Anthony Lopes,1041
+1802,18940,Rémy Riou,1041
+1803,NULL,Justin Bengui Joao,1041
+1804,702441,Sinaly Diomandé,1041
+1805,238266,Duje Caleta-Car,1041
+1806,37838,Dejan Lovren,1041
+1807,711544,Jake O'Brien,1041
+1808,910905,Mamadou Sarr,1041
+1809,131225,Nicolás Tagliafico,1041
+1810,204072,Henrique Silva,1041
+1811,951579,Saël Kumbedi,1041
+1812,187718,Clinton Mata,1041
+1813,585973,Johann Lepenant,1041
+1814,429901,Paul Akouokou,1041
+1815,395237,Maxence Caqueret,1041
+1816,190393,Corentin Tolisso,1041
+1817,285845,Ainsley Maitland-Niles,1041
+1818,855134,Skelly Alvero,1041
+1819,743533,Mohamed El Arouch,1041
+1820,1053147,Mahamadou Diawara,1041
+1821,607223,Rayan Cherki,1041
+1822,884072,Jeffinho,1041
+1823,655006,Diego Moreira,1041
+1824,955070,Ernest Nuamah,1041
+1825,93720,Alexandre Lacazette,1041
+1826,325223,Mama Baldé,1041
+1827,384060,Tino Kadewere,1041
+1828,127202,Matz Sels,667
+1829,667991,Alaa Bellaarouch,667
+1830,838947,Alexandre Pierre,667
+1831,962555,Abakar Sylla,667
+1832,786436,Ismaël Doukouré,667
+1833,1011200,Junior Mwanga,667
+1834,378953,Gerzino Nyamsi,667
+1835,352392,Lucas Perrin,667
+1836,807128,Saïdou Sow,667
+1837,988468,Steven Baseya,667
+1838,206717,Eduard Sobol,667
+1839,170961,Thomas Delaine,667
+1840,847487,Maxime Bastian,667
+1841,354352,Frédéric Guilbert,667
+1842,830890,Marvin Senaya,667
+1843,385817,Karol Fila,667
+1844,372712,Ibrahima Sissoko,667
+1845,178313,Jean-Eudes Aholou,667
+1846,125783,Sanjin Prcic,667
+1847,539232,Jessy Deminguet,667
+1848,876631,Habib Diarra,667
+1849,540664,Dilane Bakwa,667
+1850,743598,Ângelo,667
+1851,559328,Emanuel Emegha,667
+1852,880330,Moïse Sahi Dion,667
+1853,427161,Lebo Mothiba,667
+1854,27389,Kévin Gameiro,667
+1855,357117,Alban Lafont,995
+1856,282028,Rémy Descamps,995
+1857,28356,Denis Petric,995
+1858,344864,Jean-Kévin Duverne,995
+1859,182875,Jean-Charles Castelletto,995
+1860,298583,Eray Cömert,995
+1861,139279,Nicolas Pallois,995
+1862,923832,Nathan Zeze,995
+1863,955253,Bastien Meupiyou,995
+1864,557613,Quentin Merlin,995
+1865,750903,Jaouen Hadjam,995
+1866,410185,Ronaël Pierre-Gabriel,995
+1867,384859,Fabien Centonze,995
+1868,242273,Pedro Chirivella,995
+1869,649024,Lamine Diack,995
+1870,353403,Samuel Moutoussamy,995
+1871,393621,Douglas Augusto,995
+1872,46001,Moussa Sissoko,995
+1873,868891,Adson,995
+1874,222859,Florent Mollet,995
+1875,274862,Moses Simon,995
+1876,1004618,Stredair Appuah,995
+1877,668268,Marquinhos,995
+1878,353365,Marcus Coco,995
+1879,560725,Abdoul Kader Bamba,995
+1880,462348,Mostafa Mohamed,995
+1881,659543,Matthis Abline,995
+1882,531949,Ignatius Ganago,995
+1883,448632,Yehvann Diouf,1421
+1884,395602,Alexandre Olliero,1421
+1885,12029,Ludovic Butelle,1421
+1886,453376,Joseph Okumu,1421
+1887,683895,Emmanuel Agbadou,1421
+1888,199704,Yunis Abdelhamid,1421
+1889,340177,Thibault De Smet,1421
+1890,576121,Josh Wilson-Esbrand,1421
+1891,215114,Thomas Foket,1421
+1892,570817,Maxime Busi,1421
+1893,919173,Ibrahim Diakité,1421
+1894,414908,Marshall Munetsi,1421
+1895,315145,Azor Matusiwa,1421
+1896,923759,Valentin Atangana Edoa,1421
+1897,409153,Teddy Teuma,1421
+1898,893675,Amir Richardson,1421
+1899,405686,Reda Khadra,1421
+1900,405397,Keito Nakamura,1421
+1901,574385,Mohamed Daramy,1421
+1902,1054839,Mamadou Diakhon,1421
+1903,348791,Junya Ito,1421
+1904,980576,Amine Salama,1421
+1905,847279,Oumar Diakité,1421
+1906,1111912,Adama Bojang,1421
+1907,147051,Yvon Mvogo,1158
+1908,163568,Alfred Gomis,1158
+1909,591190,Dominique Youfeigane,1158
+1910,496706,Montassar Talbi,1158
+1911,708678,Isaak Touré,1158
+1912,649023,Formose Mendy,1158
+1913,386057,Julien Laporte,1158
+1914,799936,Loris Mouyokolo,1158
+1915,157495,Benjamin Mendy,1158
+1916,717118,Darlin Yongwa,1158
+1917,120651,Vincent Le Goff,1158
+1918,395685,Gédéon Kalulu,1158
+1919,391720,Igor Silva,1158
+1920,1049151,Dembo Sylla,1158
+1921,238626,Laurent Abergel,1158
+1922,182618,Tiemoué Bakayoko,1158
+1923,333383,Bonke Innocent,1158
+1924,322305,Jean-Victor Makengo,1158
+1925,810093,Ayman Kari,1158
+1926,555076,Romain Faivre,1158
+1927,766412,Théo Le Bris,1158
+1928,955357,Eli Junior Kroupi,1158
+1929,569390,Julien Ponceau,1158
+1930,412671,Quentin Boisgard,1158
+1931,700078,Joel Mvuka,1158
+1932,822458,Bamba Dieng,1158
+1933,239647,Aiyegun Tosin,1158
+1934,810411,Pablo Pagis,1158
+1935,167342,Adrian Grbic,1158
+1936,802747,Siriné Doucouré,1158
+1937,127181,Benjamin Lecomte,969
+1938,371816,Dimitry Bertaud,969
+1939,483007,Belmin Dizdarevic,969
+1940,842341,Maxime Estève,969
+1941,211637,Kiki Kouyaté,969
+1942,507344,Becir Omeragic,969
+1943,201737,Christopher Jullien,969
+1944,220878,Issiaga Sylla,969
+1945,537127,Théo Sainte-Luce,969
+1946,364857,Falaye Sacko,969
+1947,842338,Enzo Tchato,969
+1948,624037,Joris Chotard,969
+1949,118284,Jordan Ferri,969
+1950,782630,Khalil Fayad,969
+1951,650350,Léo Leroy,969
+1952,127156,Téji Savanier,969
+1953,842425,Sacha Delaye,969
+1954,324811,Arnaud Nordin,969
+1955,551505,Mousa Al-Tamari,969
+1956,618425,Tanguy Coulibaly,969
+1957,607034,Akor Adams,969
+1958,589737,Kelvin Yeboah,969
+1959,103565,Wahbi Khazri,969
+1960,876034,Yanis Guermouche,969
+1961,912902,Guillaume Restes,415
+1962,524937,Álex Domínguez,415
+1963,835136,Thomas Himeur,415
+1964,854988,Justin Lacombe,415
+1965,283227,Rasmus Nicolaisen,415
+1966,484988,Logan Costa,415
+1967,694509,Moussa Diarra,415
+1968,855014,Kévin Keben,415
+1969,1005240,Christian Mawissa Elebi,415
+1970,385105,Gabriel Suazo,415
+1971,611195,Oliver Zandén,415
+1972,923758,Ylies Aradj,415
+1973,221873,Mikkel Desler,415
+1974,794758,Warren Kamanzi,415
+1975,241501,Stijn Spierings,415
+1976,467632,Cristian Cásseres Jr.,415
+1977,280387,Vincent Sierro,415
+1978,395697,Kléri Serber,415
+1979,817180,Mamady Bangré,415
+1980,275249,Niklas Schmidt,415
+1981,470618,Denis Genreau,415
+1982,505308,César Gelabert,415
+1983,567309,Naatan Skyttä,415
+1984,575693,Ibrahim Cissoko,415
+1985,393238,Zakaria Aboukhlal,415
+1986,476836,Aron Dønnum,415
+1987,538964,Thijs Dallinga,415
+1988,807689,Frank Magri,415
+1989,569376,Yanis Begraoui,415
+1990,967049,Bonota Traoré,415
+1991,124884,Marco Bizot,3911
+1992,454149,Yan Marillat,3911
+1993,525155,Grégoire Coudert,3911
+1994,485960,Lilian Brassier,3911
+1995,250779,Brendan Chardonnet,3911
+1996,566823,Achraf Dari,3911
+1997,862972,Josué Escartin,3911
+1998,805908,Bradley Locko,3911
+1999,241229,Jordan Amavi,3911
+2000,174196,Kenny Lala,3911
+2001,794349,Julien Le Cardinal,3911
+2002,NULL,Luck Zogbé,3911
+2003,377393,Pierre Lees-Melou,3911
+2004,127142,Jonas Martin,3911
+2005,324795,Mahdi Camara,3911
+2006,474662,Hugo Magnetti,3911
+2007,424072,Mathias Pereira Lage,3911
+2008,924800,Axel Camblan,3911
+2009,671594,Kamory Doumbia,3911
+2010,543051,Billal Brahimi,3911
+2011,737781,Jérémy Le Douaron,3911
+2012,395674,Adrien Lebeau,3911
+2013,353399,Romain Del Castillo,3911
+2014,640109,Martín Satriano,3911
+2015,238639,Steve Mounié,3911
+2016,379869,Arthur Desmas,738
+2017,60543,Mathieu Gorgelin,738
+2018,911985,Mohamed Koné,738
+2019,768380,Arouna Sangante,738
+2020,351843,Yoann Salmier,738
+2021,249636,Gautier Lloris,738
+2022,639712,Étienne Youté Kinkoué,738
+2023,988272,Yoni Gomis,738
+2024,469976,Christopher Operi,738
+2025,918302,Cheick Doumbia,738
+2026,283127,Oualid El Hajjam,738
+2027,122840,Loïc Nego,738
+2028,181382,Abdoulaye Touré,738
+2029,276768,Nolan Mbemba,738
+2030,292820,Aloïs Confais,738
+2031,279570,Daler Kuzyaev,738
+2032,662242,Rassoul Ndiaye,738
+2033,667967,Yassine Kechta,738
+2034,667965,Oussama Targhalline,738
+2035,789091,Mokrane Bentoumi,738
+2036,344607,Nabil Alioui,738
+2037,45403,André Ayew,738
+2038,568698,Issa Soumaré,738
+2039,575319,Kandet Diawara,738
+2040,432772,Samuel Grandsir,738
+2041,763182,Josué Casimir,738
+2042,381187,Emmanuel Sabbi,738
+2043,594991,Mohamed Bayo,738
+2044,1028162,Antoine Joujou,738
+2045,770407,Andy Logbo,738
+2046,164904,Mory Diaw,3524
+2047,916497,Massamba N'Diaye,3524
+2048,920218,Théo Borne,3524
+2049,798404,Alidu Seidu,3524
+2050,494236,Andy Pelmard,3524
+2051,369267,Maximiliano Caufriez,3524
+2052,91473,Florent Ogier,3524
+2053,557939,Neto Borges,3524
+2054,548716,Yoël Armougom,3524
+2055,1108145,Cheick Oumar Konaté,3524
+2056,118303,Mehdi Zeffane,3524
+2057,594997,Yohann Magnin,3524
+2058,60542,Maxime Gonalons,3524
+2059,72121,Johan Gastien,3524
+2060,669000,Habib Keïta,3524
+2061,646733,Jim Allevinah,3524
+2062,422281,Muhammed Cham,3524
+2063,860056,Aïman Maurer,3524
+2064,149579,Elbasan Rashani,3524
+2065,170966,Jérémie Bela,3524
+2066,344151,Bilal Boutobba,3524
+2067,354666,Shamar Nicholson,3524
+2068,321647,Grejohn Kyei,3524
+2069,260316,Komnen Andric,3524
+2070,463601,Guillaume Dietsch,347
+2071,56809,Alexandre Oukidja,347
+2072,205465,Marc-Aurèle Caillard,347
+2073,520530,Fali Candé,347
+2074,170544,Christophe Hérelle,347
+2075,57216,Ismaël Traoré,347
+2076,739076,Abou Lo,347
+2077,1111777,Sadibou Sané,347
+2078,344886,Matthieu Udol,347
+2079,400680,Kevin Van Den Kerkhof,347
+2080,481513,Koffi Kouao,347
+2081,156618,Maxime Colin,347
+2082,293944,Habib Maïga,347
+2083,628834,Danley Jean Jacques,347
+2084,342209,Kévin N'Doram,347
+2085,855308,Arthur Atta,347
+2086,837329,Jean N'Guessan,347
+2087,918969,Lamine Camara,347
+2088,919620,Joseph Nduquidi,347
+2089,535706,Sami Lahssaini,347
+2090,568696,Cheikh Sabaly,347
+2091,1099726,Papa Amadou Diallo,347
+2092,366045,Ablie Jallow,347
+2093,375391,Joel Asoro,347
+2094,591914,Warren Tchimbembé,347
+2095,707063,Malick Mbaye,347
+2096,388266,Óscar Estupiñán,347
+2097,306382,Benjamin Tetteh,347
+2098,804661,Simon Elisor,347
+2099,1111776,Ibou Sané,347
+2100,108390,Thibaut Courtois,418
+2101,192279,Kepa Arrizabalaga,418
+2102,404839,Andriy Lunin,418
+2103,401530,Éder Militão,418
+2104,59016,David Alaba,418
+2105,86202,Antonio Rüdiger,418
+2106,58884,Nacho Fernández,418
+2107,291417,Ferland Mendy,418
+2108,341264,Fran García,418
+2109,138927,Daniel Carvajal,418
+2110,221316,Lucas Vázquez,418
+2111,413112,Aurélien Tchouaméni,418
+2112,369081,Federico Valverde,418
+2113,640428,Eduardo Camavinga,418
+2114,31909,Toni Kroos,418
+2115,319745,Dani Ceballos,418
+2116,27992,Luka Modric,418
+2117,581678,Jude Bellingham,418
+2118,314678,Brahim Díaz,418
+2119,861410,Arda Güler,418
+2120,371998,Vinicius Junior,418
+2121,412363,Rodrygo,418
+2122,81999,Joselu,418
+2123,74857,Marc-André ter Stegen,131
+2124,283170,Iñaki Peña,131
+2125,480267,Ronald Araújo,131
+2126,411975,Jules Koundé,131
+2127,196948,Andreas Christensen,131
+2128,158863,Iñigo Martínez,131
+2129,636688,Alejandro Balde,131
+2130,112515,Marcos Alonso,131
+2131,182712,João Cancelo,131
+2132,85370,Sergi Roberto,131
+2133,66100,Oriol Romeu,131
+2134,683840,Pedri,131
+2135,646740,Gavi,131
+2136,326330,Frenkie de Jong,131
+2137,53622,İlkay Gündoğan,131
+2138,636703,Fermín López,131
+2139,462250,João Félix,131
+2140,411295,Raphinha,131
+2141,937958,Lamine Yamal,131
+2142,398184,Ferran Torres,131
+2143,38253,Robert Lewandowski,131
+2144,121483,Jan Oblak,13
+2145,226073,Ivo Grbic,13
+2146,250845,José María Giménez,13
+2147,281769,Mario Hermoso,13
+2148,320141,Çağlar Söyüncü,13
+2149,107010,Stefan Savic,13
+2150,35047,Axel Witsel,13
+2151,240692,Reinildo Mandava,13
+2152,448628,Javi Galán,13
+2153,424042,Nahuel Molina,13
+2154,57500,César Azpilicueta,13
+2155,255901,Rodrigo de Paul,13
+2156,282411,Marcos Llorente,13
+2157,775605,Pablo Barrios,13
+2158,74229,Koke,13
+2159,148928,Saúl Ñíguez,13
+2160,205562,Thomas Lemar,13
+2161,694928,Samuel Lino,13
+2162,461617,Rodrigo Riquelme,13
+2163,67082,Vitolo,13
+2164,266807,Ángel Correa,13
+2165,125781,Antoine Griezmann,13
+2166,128223,Álvaro Morata,13
+2167,167850,Memphis Depay,13
+2168,212862,Álex Remiro,681
+2169,625657,Unai Marrero,681
+2170,351809,Robin Le Normand,681
+2171,355628,Igor Zubeldia,681
+2172,229804,Aritz Elustondo,681
+2173,580560,Jon Pacheco,681
+2174,300716,Kieran Tierney,681
+2175,517842,Aihen Muñoz,681
+2176,297070,Hamari Traoré,681
+2177,280730,Álvaro Odriozola,681
+2178,423440,Martín Zubimendi,681
+2179,625651,Urko González de Zarate,681
+2180,338424,Mikel Merino,681
+2181,634431,Beñat Turrientes,681
+2182,625660,Jon Ander Olasagasti,681
+2183,309110,Brais Méndez,681
+2184,555143,Arsen Zakharyan,681
+2185,907813,Pablo Marín,681
+2186,351478,Mikel Oyarzabal,681
+2187,616369,Ander Barrenetxea,681
+2188,289272,Martín Merquelanz,681
+2189,405398,Takefusa Kubo,681
+2190,337715,Umar Sadiq,681
+2191,198008,André Silva,681
+2192,670847,Mohamed-Ali Cho,681
+2193,216464,Carlos Fernández,681
+2194,262396,Unai Simón,621
+2195,625014,Julen Agirrezabala,621
+2196,524000,Dani Vivian,621
+2197,255488,Yeray Álvarez,621
+2198,591916,Aitor Paredes,621
+2199,61812,Yuri Berchiche,621
+2200,626954,Imanol García de Albéniz,621
+2201,255501,Iñigo Lekue,621
+2202,96718,Óscar de Marcos,621
+2203,300168,Mikel Vesga,621
+2204,447052,Peru Nolaskoain,621
+2205,126751,Iñigo Ruiz de Galarreta,621
+2206,99343,Ander Herrera,621
+2207,178425,Dani García,621
+2208,625047,Beñat Prados,621
+2209,571020,Oihan Sancet,621
+2210,54235,Iker Muniain,621
+2211,834752,Unai Gómez,621
+2212,709187,Nico Williams,621
+2213,338425,Álex Berenguer,621
+2214,895480,Adu Ares,621
+2215,255508,Iñaki Williams,621
+2216,340205,Gorka Guruzeta,621
+2217,251897,Asier Villalibre,621
+2218,34601,Raúl García,621
+2219,234811,Rui Silva,150
+2220,40423,Claudio Bravo,150
+2221,113133,Germán Pezzella,150
+2222,99922,Marc Bartra,150
+2223,689637,Chadi Riad,150
+2224,34322,Sokratis Papastathopoulos,150
+2225,341227,Juan Miranda,150
+2226,646402,Abner,150
+2227,191217,Héctor Bellerín,150
+2228,135492,Youssouf Sabaly,150
+2229,342385,Guido Rodríguez,150
+2230,336869,Marc Roca,150
+2231,100131,William Carvalho,150
+2232,466801,Sergi Altimira,150
+2233,20506,Andrés Guardado,150
+2234,203496,Nabil Fekir,150
+2235,630995,Rodri Sánchez,150
+2236,85288,Isco,150
+2237,724520,Abde Ezzalzouli,150
+2238,1061282,Assane Diao,150
+2239,246968,Ayoze Pérez,150
+2240,800175,Luiz Henrique,150
+2241,378139,Aitor Ruibal,150
+2242,585700,Juan Cruz,150
+2243,278359,Borja Iglesias,150
+2244,122155,Willian José,150
+2245,94308,Marko Dmitrović,368
+2246,73517,Ørjan Nyland,368
+2247,730581,Loïc Badé,368
+2248,538996,Tanguy Nianzou,368
+2249,439022,Marcão,368
+2250,660735,Federico Gattoni,368
+2251,25557,Sergio Ramos,368
+2252,74294,Nemanja Gudelj,368
+2253,766583,Kike Salas,368
+2254,60410,Marcos Acuña,368
+2255,501418,Adrià Pedrosa,368
+2256,15956,Jesús Navas,368
+2257,676042,Juanlu Sánchez,368
+2258,344605,Boubakary Soumaré,368
+2259,51174,Fernando,368
+2260,212723,Djibril Sow,368
+2261,263727,Joan Jordán,368
+2262,214775,Óliver Torres,368
+2263,32467,Ivan Rakitic,368
+2264,189441,Lucas Ocampos,368
+2265,303259,Dodi Lukébakio,368
+2266,111630,Erik Lamela,368
+2267,111961,Suso,368
+2268,177847,Adnan Januzaj,368
+2269,433049,Youssef En-Nesyri,368
+2270,361254,Rafa Mir,368
+2271,225020,Mariano Díaz,368
+2272,585323,Filip Jörgensen,1050
+2273,7825,Pepe Reina,1050
+2274,323167,Matteo Gabbia,1050
+2275,494880,Jorge Cuenca,1050
+2276,15452,Raúl Albiol,1050
+2277,80293,Aïssa Mandi,1050
+2278,356197,Alfonso Pedraza,1050
+2279,207917,Alberto Moreno,1050
+2280,709372,Carlos Romero,1050
+2281,480763,Juan Foyth,1050
+2282,76467,Kiko Femenía,1050
+2283,466807,Adrià Altimira,1050
+2284,783396,Ramón Terrats,1050
+2285,74869,Francis Coquelin,1050
+2286,63494,Étienne Capoue,1050
+2287,380598,Santi Comesaña,1050
+2288,59561,Dani Parejo,1050
+2289,188854,Manu Trigueros,1050
+2290,548111,Álex Baena,1050
+2291,165007,Denis Suárez,1050
+2292,426192,Ben Brereton Díaz,1050
+2293,568157,Yéremy Pino,1050
+2294,709969,Ilias Akhomach,1050
+2295,177467,Gerard Moreno,1050
+2296,238407,Alexander Sørloth,1050
+2297,252677,José Luis Morales,1050
+2298,502676,Giorgi Mamardashvili,1049
+2299,227805,Jaume Doménech,1049
+2300,398131,Cristian Rivero,1049
+2301,346289,Mouctar Diakhaby,1049
+2302,615350,Cenk Özkacar,1049
+2303,149498,Gabriel Paulista,1049
+2304,646750,Cristhian Mosquera,1049
+2305,221322,José Gayà,1049
+2306,623024,Jesús Vázquez,1049
+2307,367466,Thierry Correia,1049
+2308,170472,Dimitri Foulquier,1049
+2309,495629,Hugo Guillamón,1049
+2310,328480,Pepelu,1049
+2311,834764,Javi Guerra,1049
+2312,375382,André Almeida,1049
+2313,377219,Selim Amallah,1049
+2314,622992,Pablo Gozálbez,1049
+2315,617081,Diego López,1049
+2316,622988,Fran Pérez,1049
+2317,251845,Sergi Canós,1049
+2318,573775,Hugo Duro,1049
+2319,221958,Roman Yaremchuk,1049
+2320,634105,Alberto Marí,1049
+2321,195488,Paulo Gazzaniga,12321
+2322,120705,Juan Carlos,12321
+2323,623526,Toni Fuidias,12321
+2324,466794,Eric García,12321
+2325,129444,David López,12321
+2326,12282,Daley Blind,12321
+2327,64598,Bernardo Espinosa,12321
+2328,115333,Juanpe,12321
+2329,525299,Miguel Gutiérrez,12321
+2330,826224,Arnau Martínez,12321
+2331,627228,Yan Couto,12321
+2332,785967,Ibrahima Kébé,12321
+2333,261504,Aleix García,12321
+2334,378293,Yangel Herrera,12321
+2335,742521,Jhon Solís,12321
+2336,720038,Pablo Torre,12321
+2337,341278,Iván Martín,12321
+2338,67808,Borja García,12321
+2339,743591,Sávio,12321
+2340,337066,Toni Villa,12321
+2341,264372,Viktor Tsygankov,12321
+2342,99353,Portu,12321
+2343,331496,Valery Fernández,12321
+2344,343537,Artem Dovbyk,12321
+2345,59323,Cristhian Stuani,12321
+2346,297194,Iván Villar,940
+2347,54534,Agustín Marchesín,940
+2348,64399,Vicente Guaita,940
+2349,338285,Unai Núñez,940
+2350,358250,Joseph Aidoo,940
+2351,258987,Carl Starfelt,940
+2352,636093,Carlos Domínguez,940
+2353,618809,Manu Sánchez,940
+2354,271455,Mihailo Ristic,940
+2355,331505,Óscar Mingueza,940
+2356,221315,Kevin Vázquez,940
+2357,277137,Renato Tapia,940
+2358,423444,Fran Beltrán,940
+2359,623524,Carlos Dotor,940
+2360,315762,Luca de la Torre,940
+2361,892221,Hugo Sotelo,940
+2362,764859,Williot Swedberg,940
+2363,292818,Jonathan Bamba,940
+2364,341110,Franco Cervi,940
+2365,282810,Carles Pérez,940
+2366,634427,Miguel Rodríguez,940
+2367,523318,Anastasios Douvikas,940
+2368,429983,Jørgen Strand Larsen,940
+2369,72047,Iago Aspas,940
+2370,248738,Sergio Herrera,331
+2371,118997,Aitor Fernández,331
+2372,298589,David García,331
+2373,449796,Alejandro Catena,331
+2374,197122,Unai García,331
+2375,555500,Jorge Herrando,331
+2376,262939,Johan Mojica,331
+2377,169497,Juan Cruz,331
+2378,216870,Nacho Vidal,331
+2379,238868,Rubén Peña,331
+2380,488626,Jesús Areso,331
+2381,213670,Lucas Torró,331
+2382,710677,Iker Muñoz,331
+2383,552425,Jon Moncayola,331
+2384,785353,Pablo Ibáñez,331
+2385,95641,Darko Brasanac,331
+2386,634131,Aimar Oroz,331
+2387,175449,Moi Gómez,331
+2388,213260,Rubén García,331
+2389,364603,José Manuel Arnáiz,331
+2390,298575,Kike Barja,331
+2391,167721,Chimy Ávila,331
+2392,46413,Ante Budimir,331
+2393,631002,Raúl García,331
+2394,226012,David Soria,3709
+2395,438682,Daniel Fuzato,3709
+2396,577486,Gastón Álvarez,3709
+2397,221150,Djené,3709
+2398,257376,Domingos Duarte,3709
+2399,353032,Omar Alderete,3709
+2400,143029,Stefan Mitrovic,3709
+2401,249513,Diego Rico,3709
+2402,268506,Fabrizio Angileri,3709
+2403,711625,José Ángel Carmona,3709
+2404,390688,Juan Iglesias,3709
+2405,76746,Damián Suárez,3709
+2406,290249,Mauro Arambarri,3709
+2407,284854,Carles Aleñá,3709
+2408,273152,Nemanja Maksimovic,3709
+2409,281989,Luis Milla,3709
+2410,284884,Óscar Rodríguez,3709
+2411,532826,Mason Greenwood,3709
+2412,251106,Enes Ünal,3709
+2413,298976,Borja Mayoral,3709
+2414,623521,Juanmi Latasa,3709
+2415,131275,Choco Lozano,3709
+2416,227961,Jaime Mata,3709
+2417,367464,Luís Maximiano,3302
+2418,81997,Fernando Martínez,3302
+2419,59349,Diego Mariño,3302
+2420,387687,César Montes,3302
+2421,401624,Edgar González,3302
+2422,743589,Kaiky,3302
+2423,333361,Chumi,3302
+2424,355627,Sergio Akieme,3302
+2425,423443,Álex Centelles,3302
+2426,341272,Alejandro Pozo,3302
+2427,844637,Marc Pubill,3302
+2428,442552,Houboulang Mendes,3302
+2429,649033,Dion Lopy,3302
+2430,457221,Lucas Robertone,3302
+2431,162056,Gonzalo Melero,3302
+2432,442805,Iddrisu Baba,3302
+2433,536030,Arnau Puigmal,3302
+2434,537762,Sergio Arribas,3302
+2435,518644,Largie Ramazani,3302
+2436,574772,Lázaro,3302
+2437,288318,Adrián Embarba,3302
+2438,424784,Luis Suárez,3302
+2439,490223,Ibrahima Koné,3302
+2440,221899,Léo Baptistão,3302
+2441,845568,Marko Milovanovic,3302
+2442,NULL,Marciano Sanca,3302
+2443,190263,Predrag Rajkovic,237
+2444,316884,Dominik Greif,237
+2445,27493,Iván Cuéllar,237
+2446,277384,Martin Valjent,237
+2447,400131,Siebe Van der Heyden,237
+2448,520840,José Copete,237
+2449,278296,Antonio Raíllo,237
+2450,143559,Matija Nastasic,237
+2451,320271,Toni Lato,237
+2452,65318,Jaume Costa,237
+2453,251876,Pablo Maffeo,237
+2454,339699,Giovanni González,237
+2455,657430,Samú Costa,237
+2456,142031,Omar Mascarell,237
+2457,142021,Sergi Darder,237
+2458,335225,Manu Morlanes,237
+2459,513031,Antonio Sánchez,237
+2460,139435,Dani Rodríguez,237
+2461,339820,Amath Ndiaye,237
+2462,706138,Javi Llabrés,237
+2463,256267,Vedat Muriqi,237
+2464,343463,Cyle Larin,237
+2465,177452,Abdón Prats,237
+2466,165467,Stole Dimitrievski,367
+2467,397676,Dani Cárdenas,367
+2468,127108,Florian Lejeune,367
+2469,451801,Abdul Mumin,367
+2470,82503,Aridane Hernández,367
+2471,638588,Martín Pascual,367
+2472,311044,Alfonso Espino,367
+2473,596122,Pep Chavarría,367
+2474,85295,Iván Balliu,367
+2475,527966,Andrei Rațiu,367
+2476,517753,Óscar Valentín,367
+2477,527698,Kike Pérez,367
+2478,192009,Unai López,367
+2479,525578,Pathé Ciss,367
+2480,30321,Óscar Trejo,367
+2481,560483,Randy Nteka,367
+2482,195605,José Pozo,367
+2483,257062,Álvaro García,367
+2484,153427,Bebé,367
+2485,362086,Isi Palazón,367
+2486,455181,Jorge de Frutos,367
+2487,162038,Raúl de Tomás,367
+2488,505674,Sergio Camello,367
+2489,39152,Radamel Falcao,367
+2490,290346,André Ferreira,16795
+2491,54217,Raúl Fernández,16795
+2492,251896,Jesús Vallejo,16795
+2493,631222,Raúl Torrente,16795
+2494,70245,Ignasi Miquel,16795
+2495,583510,Miguel Rubio,16795
+2496,811778,Álvaro Carreras,16795
+2497,448844,Carlos Neva,16795
+2498,388545,Ricard Sánchez,16795
+2499,257388,Wilson Manafá,16795
+2500,58330,Víctor Díaz,16795
+2501,268670,Gerard Gumbau,16795
+2502,376588,Njegos Petrovic,16795
+2503,398163,Gonzalo Villar,16795
+2504,394694,Sergio Ruiz,16795
+2505,448344,Óscar Melendo,16795
+2506,315289,Myrto Uzuni,16795
+2507,713644,Bryan Zaragoza,16795
+2508,99559,Alberto Perea,16795
+2509,262365,Antonio Puertas,16795
+2510,61253,José Callejón,16795
+2511,334222,Lucas Boyé,16795
+2512,247652,Shon Weissman,16795
+2513,237125,Famara Diédhiou,16795
+2514,284342,Conan Ledesma,2687
+2515,162027,David Gil,2687
+2516,252667,Fali,2687
+2517,495625,Víctor Chust,2687
+2518,286779,Jorge Meré,2687
+2519,62945,Luis Hernández,2687
+2520,490421,Momo Mbaye,2687
+2521,422466,Javi Hernández,2687
+2522,927768,Lucas Pires,2687
+2523,197135,Joseba Zaldua,2687
+2524,254037,Iza Carcelén,2687
+2525,225462,José Mari,2687
+2526,277635,Rominigue Kouamé,2687
+2527,247250,Rubén Alcaraz,2687
+2528,266795,Gonzalo Escalante,2687
+2529,307519,Fede San Emeterio,2687
+2530,278404,Martín Calderón,2687
+2531,89733,Álex Fernández,2687
+2532,563137,Robert Navarro,2687
+2533,211251,Darwin Machís,2687
+2534,598765,Brian Ocampo,2687
+2535,281755,Iván Alejo,2687
+2536,396894,Maxi Gómez,2687
+2537,538810,Chris Ramos,2687
+2538,85383,Rubén Sobrino,2687
+2539,212391,Roger Martí,2687
+2540,256429,Sergi Guardiola,2687
+2541,18644,Álvaro Negredo,2687
+2542,417913,Álvaro Valles,472
+2543,284430,Aarón Escandell,472
+2544,617060,Mika Mármol,472
+2545,588426,Saúl Coco,472
+2546,510396,Alex Suárez,472
+2547,390823,Eric Curbelo,472
+2548,678406,Sergi Cardona,472
+2549,215099,Daley Sinkgraven,472
+2550,513970,Julián Araujo,472
+2551,230222,Álvaro Lemos,472
+2552,668547,Máximo Perrone,472
+2553,203516,Nuke Mfulu,472
+2554,581781,Enzo Loiodice,472
+2555,282421,Javi Muñoz,472
+2556,531062,Fabio González,472
+2557,733576,Alberto Moleiro,472
+2558,566574,Kirian Rodríguez,472
+2559,153238,Jonathan Viera,472
+2560,534379,Pejiño,472
+2561,282672,Benito Ramírez,472
+2562,223725,Munir El Haddadi,472
+2563,603940,Marvin Park,472
+2564,355689,Sory Kaba,472
+2565,199369,Sandro Ramírez,472
+2566,443222,Marc Cardona,472
+2567,237617,Cristian Herrera,472
+2568,298197,Antonio Sivera,1108
+2569,631693,Jesús Owono,1108
+2570,662261,Rafa Marín,1108
+2571,559979,Abdel Abqar,1108
+2572,258475,Nikola Maras,1108
+2573,237499,Aleksandar Sedlar,1108
+2574,177046,Rubén Duarte,1108
+2575,568158,Javi López,1108
+2576,289255,Andoni Gorosabel,1108
+2577,434990,Álex Sola,1108
+2578,533568,Nahuel Tenaglia,1108
+2579,495621,Antonio Blanco,1108
+2580,431190,Carlos Benavidez,1108
+2581,465967,Ander Guevara,1108
+2582,289257,Jon Guridi,1108
+2583,282076,Ianis Hagi,1108
+2584,278837,Luis Rioja,1108
+2585,718034,Abde Rebbach,1108
+2586,572271,Xeber Alkain,1108
+2587,991268,Samu Omorodion,1108
+2588,711382,Jon Karrikaburu,1108
+2589,742201,Giuliano Simeone,1108
+2590,93936,Kike García,1108
+2591,17259,Manuel Neuer,27
+2592,468539,Daniel Peretz,27
+2593,40680,Sven Ulreich,27
+2594,639582,Tom Hülsmann,27
+2595,326031,Matthijs de Ligt,27
+2596,344695,Dayot Upamecano,27
+2597,503482,Min-jae Kim,27
+2598,744729,Tarek Buchmann,27
+2599,424204,Alphonso Davies,27
+2600,170986,Raphaël Guerreiro,27
+2601,604320,Frans Krätzig,27
+2602,340456,Noussair Mazraoui,27
+2603,190685,Bouna Sarr,27
+2604,161056,Joshua Kimmich,27
+2605,792380,Aleksandar Pavlovic,27
+2606,153084,Leon Goretzka,27
+2607,223967,Konrad Laimer,27
+2608,580195,Jamal Musiala,27
+2609,243714,Kingsley Coman,27
+2610,192565,Leroy Sané,27
+2611,159471,Serge Gnabry,27
+2612,58358,Thomas Müller,27
+2613,132098,Harry Kane,27
+2614,801734,Mathys Tel,27
+2615,45660,Eric Maxim Choupo-Moting,27
+2616,550829,Matej Kovar,15
+2617,48015,Lukas Hradecky,15
+2618,85543,Niklas Lomb,15
+2619,564545,Edmond Tapsoba,15
+2620,659813,Piero Hincapié,15
+2621,644771,Odilon Kossounou,15
+2622,196357,Jonathan Tah,15
+2623,NULL,Madi Monamay,15
+2624,193082,Alejandro Grimaldo,15
+2625,484547,Jeremie Frimpong,15
+2626,483046,Josip Stanisic,15
+2627,977464,Arthur,15
+2628,315131,Timothy Fosu-Mensah,15
+2629,111455,Granit Xhaka,15
+2630,743395,Noah Mbamba,15
+2631,401578,Exequiel Palacios,15
+2632,159088,Robert Andrich,15
+2633,232454,Nadiem Amiri,15
+2634,936981,Gustavo Puerta,15
+2635,598577,Florian Wirtz,15
+2636,NULL,Ayman Aourir,15
+2637,532776,Amine Adli,15
+2638,340322,Nathan Tella,15
+2639,7161,Jonas Hofmann,15
+2640,656681,Victor Boniface,15
+2641,242086,Patrik Schick,15
+2642,552057,Adam Hlozek,15
+2643,81173,Janis Blaswich,23826
+2644,57071,Péter Gulácsi,23826
+2645,160971,Leopold Zingerle,23826
+2646,897425,Timo Schlieck,23826
+2647,666234,Mohamed Simakan,23826
+2648,618472,Castello Lukeba,23826
+2649,787912,El Chadaille Bitshiabu,23826
+2650,93740,Willi Orbán,23826
+2651,215599,Lukas Klostermann,23826
+2652,NULL,Tim Köhler,23826
+2653,318204,David Raum,23826
+2654,159844,Christopher Lenz,23826
+2655,202591,Benjamin Henrichs,23826
+2656,223979,Xaver Schlager,23826
+2657,404950,Nicolas Seiwald,23826
+2658,402008,Amadou Haidara,23826
+2659,617074,Ilaix Moriba,23826
+2660,53418,Kevin Kampl,23826
+2661,293385,Dani Olmo,23826
+2662,324278,Christoph Baumgartner,23826
+2663,559263,Fábio Carvalho,23826
+2664,111078,Emil Forsberg,23826
+2665,566931,Xavi Simons,23826
+2666,368887,Loïs Openda,23826
+2667,627442,Benjamin Sesko,23826
+2668,170527,Timo Werner,23826
+2669,157635,Yussuf Poulsen,23826
+2670,257814,Gregor Kobel,16
+2671,453737,Marcel Lotka,16
+2672,76158,Alexander Meyer,16
+2673,388198,Nico Schlotterbeck,16
+2674,166601,Niklas Süle,16
+2675,39728,Mats Hummels,16
+2676,482573,Antonios Papadopoulos,16
+2677,284732,Ramy Bensebaini,16
+2678,370789,Julian Ryerson,16
+2679,193900,Marius Wolf,16
+2680,100986,Thomas Meunier,16
+2681,388513,Mateu Morey,16
+2682,119296,Emre Can,16
+2683,244940,Salih Özcan,16
+2684,718232,Abdoulaye Kamara,16
+2685,406640,Felix Nmecha,16
+2686,106987,Marcel Sabitzer,16
+2687,405690,Ole Pohlmann,16
+2688,187492,Julian Brandt,16
+2689,504215,Giovanni Reyna,16
+2690,35207,Marco Reus,16
+2691,496094,Karim Adeyemi,16
+2692,670882,Jamie Bynoe-Gittens,16
+2693,326029,Donyell Malen,16
+2694,819215,Julien Duranville,16
+2695,467720,Youssoufa Moukoko,16
+2696,181375,Sébastien Haller,16
+2697,75489,Niclas Füllkrug,16
+2698,108880,Koen Casteels,82
+2699,51977,Pavao Pervan,82
+2700,574203,Philipp Schulze,82
+2701,192268,Niklas Klinger,82
+2702,434224,Maxence Lacroix,82
+2703,382478,Cédric Zesiger,82
+2704,460245,Moritz Jenz,82
+2705,338629,Sebastiaan Bornauw,82
+2706,NULL,Felix Lange,82
+2707,401527,Rogério,82
+2708,485965,Nicolas Cozza,82
+2709,369674,Joakim Maehle,82
+2710,327251,Ridle Baku,82
+2711,435796,Kilian Fischer,82
+2712,387106,Lovro Majer,82
+2713,342405,Mattias Svanberg,82
+2714,117674,Maximilian Arnold,82
+2715,503881,Aster Vranckx,82
+2716,119277,Yannick Gerhardt,82
+2717,711517,Kevin Paredes,82
+2718,407098,Jakub Kaminski,82
+2719,469858,Ulysses Llanez,82
+2720,533295,Patrick Wimmer,82
+2721,242063,Vaclav Cerny,82
+2722,391004,Jonas Wind,82
+2723,314288,Lukas Nmecha,82
+2724,748382,Amin Sarr,82
+2725,616344,Tiago Tomás,82
+2726,819636,Dzenan Pejcinovic,82
+2727,247915,Jonas Omlin,18
+2728,284270,Moritz Nicolas,18
+2729,455922,Jan Olschowsky,18
+2730,31653,Tobias Sippel,18
+2731,355816,Ko Itakura,18
+2732,192635,Nico Elvedi,18
+2733,263361,Maximilian Wöber,18
+2734,196231,Marvin Friedrich,18
+2735,724104,Fabio Chiarodia,18
+2736,47587,Tony Jantschke,18
+2737,340480,Mamadou Doucouré,18
+2738,524285,Luca Netz,18
+2739,787151,Lukas Ullrich,18
+2740,504153,Joe Scally,18
+2741,85791,Stefan Lainer,18
+2742,912455,Simon Walde,18
+2743,196792,Julian Weigl,18
+2744,82097,Christoph Kramer,18
+2745,624690,Manu Koné,18
+2746,278332,Florian Neuhaus,18
+2747,467434,Rocco Reitz,18
+2748,284010,Robin Hack,18
+2749,321070,Hannes Wolf,18
+2750,586659,Yvandro Borges Sanches,18
+2751,229006,Franck Honorat,18
+2752,629588,Nathan Ngoumou,18
+2753,32711,Patrick Herrmann,18
+2754,544148,Tomas Cvancara,18
+2755,167329,Alassane Plea,18
+2756,355369,Jordan,18
+2757,574201,Grant-Leon Ranos,18
+2758,107775,Frederik Rönnow,89
+2759,93763,Alexander Schwolow,89
+2760,203411,Jakob Busk,89
+2761,698840,Yannic Stein,89
+2762,387047,Danilho Doekhi,89
+2763,357156,Diogo Leite,89
+2764,284248,Paul Jaeckel,89
+2765,94201,Robin Knoche,89
+2766,39983,Leonardo Bonucci,89
+2767,127076,Jérôme Roussillon,89
+2768,362977,Josip Juranovic,89
+2769,75921,Christopher Trimmel,89
+2770,124410,Rani Khedira,89
+2771,337333,Alex Kral,89
+2772,353948,Lucas Tousart,89
+2773,692737,Aljoscha Kemlein,89
+2774,233782,Aïssa Laïdouni,89
+2775,177779,Janik Haberer,89
+2776,454863,András Schäfer,89
+2777,451403,Laurenz Dehl,89
+2778,273132,Robin Gosens,89
+2779,393323,Brenden Aaronson,89
+2780,188888,Sheraldo Becker,89
+2781,787232,David Datro Fofana,89
+2782,82009,Kevin Volland,89
+2783,117432,Kevin Behrens,89
+2784,545332,Mikkel Kaufmann,89
+2785,453870,Benedict Hollerbach,89
+2786,45672,Kevin Trapp,24
+2787,997861,Kauã Santos,24
+2788,40034,Jens Grahl,24
+2789,726120,Simon Simoni,24
+2790,328784,Robin Koch,24
+2791,661171,Willian Pacho,24
+2792,546213,Tuta,24
+2793,571299,Hrvoje Smolcic,24
+2794,39259,Makoto Hasebe,24
+2795,684315,Nnamdi Collins,24
+2796,666168,Dario Gebuhr,24
+2797,993870,Davis Bautista,24
+2798,591193,Niels Nkounkou,24
+2799,111275,Philipp Max,24
+2800,258039,Aurélio Buta,24
+2801,49723,Timothy Chandler,24
+2802,744857,Elias Baum,24
+2803,290587,Ellyes Skhiri,24
+2804,374954,Kristijan Jakic,24
+2805,931838,Hugo Larsson,24
+2806,536482,Junior Dina Ebimbe,24
+2807,44466,Sebastian Rode,24
+2808,717345,Sidney Raebiger,24
+2809,654872,Marcel Wenig,24
+2810,519869,Mehdi Loune,24
+2811,486456,Harpreet Ghotra,24
+2812,429874,Ansgar Knauff,24
+2813,74842,Mario Götze,24
+2814,795738,Paxten Aaronson,24
+2815,855015,Farès Chaïbi,24
+2816,422355,Jens Petter Hauge,24
+2817,445939,Omar Marmoush,24
+2818,448177,Jessic Ngankam,24
+2819,867357,Nacho Ferri,24
+2820,193782,Lucas Alario,24
+2821,675535,Noel Futkeu,24
+2822,195778,Alexander Nübel,79
+2823,187624,Fabian Bredlow,79
+2824,800946,Dennis Seimen,79
+2825,470816,Florian Schock,79
+2826,690799,Anthony Rouault,79
+2827,193004,Waldemar Anton,79
+2828,344598,Dan-Axel Zagadou,79
+2829,507345,Leonidas Stergiou,79
+2830,353892,Hiroki Ito,79
+2831,282660,Maximilian Mittelstädt,79
+2832,448258,Josha Vagnoman,79
+2833,195246,Pascal Stenzel,79
+2834,443710,Angelo Stiller,79
+2835,232320,Atakan Karazor,79
+2836,400546,Nikolas Nartey,79
+2837,431561,Roberto Massimo,79
+2838,569366,Enzo Millot,79
+2839,297583,Woo-yeong Jeong,79
+2840,472243,Lilian Egloff,79
+2841,79377,Genki Haraguchi,79
+2842,717465,Laurin Ulrich,79
+2843,272278,Chris Führich,79
+2844,612826,Silas,79
+2845,518505,Jamie Leweling,79
+2846,NULL,Luca Raimund,79
+2847,270541,Serhou Guirassy,79
+2848,339314,Deniz Undav,79
+2849,675565,Thomas Kastanaras,79
+2850,943795,Jovan Milosevic,79
+2851,526845,Noah Atubolu,60
+2852,284769,Florian Müller,60
+2853,120296,Benjamin Uphoff,60
+2854,225657,Philipp Lienhart,60
+2855,124502,Matthias Ginter,60
+2856,527276,Kenneth Schmidt,60
+2857,45683,Manuel Gulde,60
+2858,599419,Max Rosenfelder,60
+2859,93707,Christian Günter,60
+2860,815078,Jordy Makengo,60
+2861,548348,Kiliann Sildillia,60
+2862,93604,Lukas Kübler,60
+2863,342039,Yannik Keitel,60
+2864,55099,Nicolas Höfler,60
+2865,230818,Fabian Rüdlin,60
+2866,190284,Maximilian Eggestein,60
+2867,608832,Merlin Röhl,60
+2868,272587,Daniel-Kofi Kyereh,60
+2869,185077,Vincenzo Grifo,60
+2870,392163,Noah Weißhaupt,60
+2871,358504,Ritsu Doan,60
+2872,332798,Roland Sallai,60
+2873,143891,Maximilian Philipp,60
+2874,452477,Junior Adamu,60
+2875,120205,Michael Gregoritsch,60
+2876,248999,Lucas Höler,60
+2877,584254,Maximilian Breunig,60
+2878,55089,Oliver Baumann,533
+2879,432671,Luca Philipp,533
+2880,600942,Nahuel Noll,533
+2881,263380,Attila Szalai,533
+2882,361260,Ozan Kabak,533
+2883,160241,Kevin Akpoguma,533
+2884,371141,Stanley Nsoki,533
+2885,84435,Kevin Vogt,533
+2886,124732,John Anthony Brooks,533
+2887,263801,Kasim Adams,533
+2888,790918,Joshua Quarshie,533
+2889,450234,Marco John,533
+2890,143798,Pavel Kaderabek,533
+2891,195736,Florian Grillitsch,533
+2892,315604,Diadié Samassékou,533
+2893,344069,Anton Stach,533
+2894,234029,Grischa Prömel,533
+2895,251309,Dennis Geiger,533
+2896,334999,Finn Ole Becker,533
+2897,569031,Umut Tohumcu,533
+2898,270393,Robert Skov,533
+2899,822959,Tom Bischof,533
+2900,324861,Julian Justvan,533
+2901,116088,Marius Bülter,533
+2902,574193,Bambasé Conté,533
+2903,307924,Mergim Berisha,533
+2904,228645,Wout Weghorst,533
+2905,578392,Maximilian Beier,533
+2906,46580,Andrej Kramaric,533
+2907,237164,Ihlas Bebou,533
+2908,251299,Finn Dahmen,167
+2909,146714,Tomas Koubek,167
+2910,656250,Marcel Lubik,167
+2911,278343,Felix Uduokhai,167
+2912,346478,Japhet Tanganga,167
+2913,314295,Reece Oxford,167
+2914,388363,Maximilian Bauer,167
+2915,391742,Patric Pfeiffer,167
+2916,106405,Jeffrey Gouweleeuw,167
+2917,569349,Frederik Winther,167
+2918,520468,Iago,167
+2919,288429,Mads Pedersen,167
+2920,371000,David Colina,167
+2921,730484,Aaron Zehnter,167
+2922,353826,Robert Gumny,167
+2923,183321,Kevin Mbabu,167
+2924,146163,Raphael Framberger,167
+2925,251302,Niklas Dorsch,167
+2926,569457,Tim Breithaupt,167
+2927,565435,Arne Engels,167
+2928,296397,Arne Maier,167
+2929,280575,Elvis Rexhbecaj,167
+2930,307052,Masaya Okugawa,167
+2931,249157,Fredrik Jensen,167
+2932,777005,Mert Kömür,167
+2933,557614,Nathanaël Mbuku,167
+2934,345886,Rubén Vargas,167
+2935,335457,Ermedin Demirovic,167
+2936,618350,Dion Beljo,167
+2937,288340,Phillip Tietz,167
+2938,342226,Irvin Cardona,167
+2939,186988,Sven Michel,167
+2940,160963,Robin Zentner,39
+2941,90317,Daniel Batz,39
+2942,490609,Lasse Rieß,39
+2943,370683,Andreas Hanche-Olsen,39
+2944,247555,Edimilson Fernandes,39
+2945,541231,Sepp van den Berg,39
+2946,334207,Maxim Leitsch,39
+2947,82350,Stefan Bell,39
+2948,453016,Anthony Caci,39
+2949,168989,Silvan Widmer,39
+2950,85906,Danny da Costa,39
+2951,127573,Phillipp Mwene,39
+2952,118847,Dominik Kohr,39
+2953,93704,Josuha Guilavogui,39
+2954,357233,Leandro Barreiro,39
+2955,405687,Tom Krauß,39
+2956,315332,Aymen Barkok,39
+2957,405689,Merveille Papela,39
+2958,279009,Marco Richter,39
+2959,314398,Jae-sung Lee,39
+2960,700106,Brajan Gruda,39
+2961,283994,Ludovic Ajorque,39
+2962,333647,Jonathan Burkardt,39
+2963,796213,Nelson Weiper,39
+2964,119234,Karim Onisiwo,39
+2965,160929,Marvin Schwäbe,3
+2966,8246,Philipp Pentke,3
+2967,665971,Jonas Nickisch,3
+2968,227089,Matthias Köbbing,3
+2969,236981,Timo Hübers,3
+2970,303219,Jeff Chabot,3
+2971,384553,Luca Kilian,3
+2972,110036,Dominique Heintz,3
+2973,795762,Elias Bakatukanda,3
+2974,107219,Leart Paqarada,3
+2975,469949,Noah Katterbach,3
+2976,810649,Max Finkgräfe,3
+2977,160968,Benno Schmitz,3
+2978,542697,Rasmus Carstensen,3
+2979,287188,Dejan Ljubicic,3
+2980,597000,Eric Martel,3
+2981,515017,Jacob Christensen,3
+2982,678479,Denis Huseinbasic,3
+2983,490581,Mathias Olesen,3
+2984,106270,Florian Kainz,3
+2985,456492,Faride Alidou,3
+2986,472249,Jan Thielmann,3
+2987,335103,Linton Maina,3
+2988,324344,Dimitrios Limnios,3
+2989,178459,Davie Selke,3
+2990,196095,Luca Waldschmidt,3
+2991,296879,Steffen Tigges,3
+2992,112935,Mark Uth,3
+2993,125614,Sargis Adamyan,3
+2994,283871,Florian Dietz,3
+2995,820241,Damion Downs,3
+2996,260053,Jiri Pavlenka,86
+2997,196813,Michael Zetterer,86
+2998,369258,Dudu,86
+2999,334221,Amos Pieper,86
+3000,162434,Niklas Stark,86
+3001,156990,Marco Friedl,86
+3002,202228,Milos Veljkovic,86
+3003,58995,Anthony Jung,86
+3004,119211,Mitchell Weiser,86
+3005,393512,Felix Agu,86
+3006,338668,Senne Lynen,86
+3007,185427,Nicolai Rapp,86
+3008,58396,Christian Groß,86
+3009,302215,Naby Keïta,86
+3010,289835,Jens Stage,86
+3011,621802,Olivier Deman,86
+3012,825073,Leon Opitz,86
+3013,346853,Romano Schmid,86
+3014,93844,Leonardo Bittencourt,86
+3015,596153,Justin Njinmah,86
+3016,323831,Rafael Borré,86
+3017,125103,Marvin Ducksch,86
+3018,208167,Dawid Kownacki,86
+3019,455661,Nick Woltemade,86
+3020,40792,Manuel Riemann,80
+3021,348778,Niclas Thiede,80
+3022,61989,Michael Esser,80
+3023,343959,Erhan Masovic,80
+3024,364258,Bernardo,80
+3025,118850,Ivan Ordets,80
+3026,413843,Keven Schlotterbeck,80
+3027,696164,Tim Oermann,80
+3028,265209,Noah Loosli,80
+3029,813730,Mohammed Tolba,80
+3030,196793,Maximilian Wittek,80
+3031,154396,Danilo Soares,80
+3032,452222,Moritz Römling,80
+3033,274461,Felix Passlack,80
+3034,397099,Jordi Osei-Tutu,80
+3035,121686,Cristian Gamboa,80
+3036,111266,Anthony Losilla,80
+3037,443331,Patrick Osterhage,80
+3038,204047,Matus Bero,80
+3039,NULL,Mats Pannewig,80
+3040,106872,Kevin Stöger,80
+3041,179635,Philipp Förster,80
+3042,334213,Lukas Daschner,80
+3043,316575,Moritz-Broni Kwarteng,80
+3044,289182,Christopher Antwi-Adjei,80
+3045,245744,Takuma Asano,80
+3046,119037,Philipp Hofmann,80
+3047,181547,Gonçalo Paciência,80
+3048,406973,Moritz Broschinski,80
+3049,291422,Lys Mousset,80
+3050,43824,Kevin Müller,2036
+3051,57796,Vitus Eicher,2036
+3052,519035,Paul Tschernuth,2036
+3053,NULL,Frank Feller,2036
+3054,337092,Tim Siersleben,2036
+3055,133731,Patrick Mainka,2036
+3056,485747,Thomas Keller,2036
+3057,192169,Jonas Föhrenbach,2036
+3058,31599,Norman Theuerkauf,2036
+3059,NULL,Seedy Jarju,2036
+3060,117478,Marnon Busch,2036
+3061,388294,Omar Haktab Traoré,2036
+3062,392710,Lennard Maloney,2036
+3063,227084,Benedikt Gimber,2036
+3064,825971,Luka Janes,2036
+3065,581357,Jan Schöppner,2036
+3066,448028,Kevin Sessa,2036
+3067,94030,Denis Thomalla,2036
+3068,273669,Adrian Beck,2036
+3069,342967,Jan-Niklas Beste,2036
+3070,191359,Florian Pick,2036
+3071,645774,Eren Dinkçi,2036
+3072,120189,Nikola Dovedan,2036
+3073,193033,Tim Kleindienst,2036
+3074,471055,Marvin Pieringer,2036
+3075,184204,Christian Kühlwetter,2036
+3076,394033,Stefan Schimmer,2036
+3077,741149,Elidon Qenaj,2036
+3078,93651,Marcel Schuhen,105
+3079,274039,Morten Behrens,105
+3080,146693,Alexander Brunst,105
+3081,NULL,Max Wendt,105
+3082,346849,Christoph Klarer,105
+3083,692070,Clemens Riedel,105
+3084,433388,Matej Maglica,105
+3085,77812,Christoph Zimmermann,105
+3086,119286,Jannik Müller,105
+3087,322075,Thomas Isherwood,105
+3088,286596,Emir Karic,105
+3089,54846,Fabian Holland,105
+3090,237162,Matthias Bader,105
+3091,270027,Frank Ronstadt,105
+3092,370998,Bartol Franjic,105
+3093,438315,Andreas Müller,105
+3094,57598,Klaus Gjasula,105
+3095,349433,Fabian Nürnberger,105
+3096,94148,Fabian Schnellhardt,105
+3097,42072,Tobias Kempe,105
+3098,237226,Marvin Mehlem,105
+3099,283497,Mathias Honsak,105
+3100,287920,Tim Skarke,105
+3101,464195,Filip Stojilkovic,105
+3102,673071,Oscar Vilhelmsson,105
+3103,388160,Fraser Hornby,105
+3104,232463,Luca Pfeiffer,105
+3105,231590,Braydon Manu,105
+3106,187499,Aaron Seydel,105
+3107,917015,Fabio Torsiello,105
+3108,352324,Agustín Rossi,614
+3109,876739,Matheus Cunha,614
+3110,140811,Santos,614
+3111,288431,Léo Pereira,614
+3112,432773,Fabrício Bruno,614
+3113,149577,Pablo,614
+3114,627215,Gabriel Noga,614
+3115,172054,Rodrigo Caio,614
+3116,46741,David Luiz,614
+3117,943237,Cleiton,614
+3118,349585,Ayrton Lucas,614
+3119,21725,Filipe Luís,614
+3120,594226,Matheuzinho,614
+3121,964580,Wesley,614
+3122,188862,Guillermo Varela,614
+3123,385271,Allan,614
+3124,215616,Erick Pulgar,614
+3125,294873,Thiago Maia,614
+3126,978037,Igor Jesus,614
+3127,341705,Gerson,614
+3128,749559,Victor Hugo,614
+3129,248410,Giorgian de Arrascaeta,614
+3130,52896,Everton Ribeiro,614
+3131,321239,Everton,614
+3132,353108,Bruno Henrique,614
+3133,435485,Luiz Araújo,614
+3134,432895,Pedro,614
+3135,244275,Gabriel Barbosa,614
+3136,69400,Weverton,1023
+3137,964590,Kaique,1023
+3138,53015,Marcelo Lomba,1023
+3139,813121,Mateus,1023
+3140,215390,Gustavo Gómez,1023
+3141,458710,Murilo,1023
+3142,178984,Luan,1023
+3143,964591,Naves,1023
+3144,887834,Michel,1023
+3145,496268,Joaquín Piquerez,1023
+3146,816129,Vanderlan,1023
+3147,147361,Mayke,1023
+3148,574758,Garcia,1023
+3149,75435,Marcos Rocha,1023
+3150,627230,Fabinho,1023
+3151,366948,Jailson,1023
+3152,608216,Gabriel Menino,1023
+3153,225432,Zé Rafael,1023
+3154,735573,Richard Ríos,1023
+3155,469135,Eduard Atuesta,1023
+3156,432953,Raphael Veiga,1023
+3157,991800,Luis Guilherme,1023
+3158,964582,Jhon Jhon,1023
+3159,114937,Dudu,1023
+3160,900195,Kevin,1023
+3161,440658,Artur,1023
+3162,542598,Breno Lopes,1023
+3163,971570,Endrick,1023
+3164,371009,Rony,1023
+3165,844797,José Manuel López,1023
+3166,512344,Jandrei,585
+3167,68097,Rafael,585
+3168,189682,Felipe Alves,585
+3169,894532,Young,585
+3170,872171,Lucas Beraldo,585
+3171,546212,Diego Costa,585
+3172,503343,Alan Franco,585
+3173,466336,Nahuel Ferraresi,585
+3174,139867,Robert Arboleda,585
+3175,574903,Walce,585
+3176,980825,Matheus Belém,585
+3177,729264,Welington,585
+3178,601011,Caio Paulista,585
+3179,662326,Patryck,585
+3180,552240,Igor Vinícius,585
+3181,929866,João Moreira,585
+3182,887801,Nathan Mendes,585
+3183,439460,Raí Ramos,585
+3184,33947,Rafinha,585
+3185,892089,Pablo Maia,585
+3186,574904,Luan,585
+3187,454181,Gabriel Neves,585
+3188,330682,Jhegson Méndez,585
+3189,980837,Felipe Negrucci,585
+3190,468304,Rodrigo Nestor,585
+3191,743593,Rodriguinho,585
+3192,627222,Talles Costa,585
+3193,229736,Alisson,585
+3194,729263,Pedro Vilhena,585
+3195,567249,Giuliano Galoppo,585
+3196,88103,James Rodríguez,585
+3197,482144,Michel Araújo,585
+3198,542483,Wellington Rato,585
+3199,NULL,Henrique Carmo,585
+3200,612496,Marcos Paulo,585
+3201,373189,David,585
+3202,NULL,William Gomes,585
+3203,77100,Lucas Moura,585
+3204,963727,Caio Matheus,585
+3205,284727,Jonathan Calleri,585
+3206,787238,Erison,585
+3207,223560,Luciano,585
+3208,662332,Juan,585
+3209,37579,Alexandre Pato,585
+3210,NULL,João Adriano,585
+3211,NULL,Talles Wander,585
+3212,691906,Bento,679
+3213,743586,Mycael,679
+3214,742034,Léo Linck,679
+3215,627213,Gabriel Pereira,679
+3216,484848,Zé Ivaldo,679
+3217,329720,Pedro Henrique,679
+3218,882916,Matheus Felipe,679
+3219,633377,Kaique Rocha,679
+3220,45431,Thiago Heleno,679
+3221,603122,Cacá,679
+3222,829969,Lucas Esquivel,679
+3223,731057,Fernando,679
+3224,658676,Vinicius Kauê,679
+3225,148751,Bruno Peres,679
+3226,177845,Madson,679
+3227,633212,Erick,679
+3228,644157,Hugo Moura,679
+3229,26267,Fernandinho,679
+3230,658678,Christian,679
+3231,219835,Alex Santana,679
+3232,37666,Arturo Vidal,679
+3233,711600,Bruno Zapelli,679
+3234,390368,Vitor Bueno,679
+3235,694606,Thiago Andrade,679
+3236,503052,Tomás Cuello,679
+3237,457533,Agustín Canobbio,679
+3238,743599,Emersonn,679
+3239,943837,Vitor Roque,679
+3240,957874,Rômulo,679
+3241,737965,Luciano Arriagada,679
+3242,148765,Pablo,679
+3243,55338,Willian,679
+3244,708723,Matheus Donelli,199
+3245,641458,Carlos Miguel,199
+3246,50144,Cássio,199
+3247,411662,Lucas Veríssimo,199
+3248,552912,Bruno Méndez,199
+3249,625345,Caetano,199
+3250,101469,Gil,199
+3251,743831,Renato Santos,199
+3252,670021,Matheus Bidu,199
+3253,13835,Fábio Santos,199
+3254,47592,Fagner,199
+3255,290388,Rafael Ramos,199
+3256,491701,Fausto Vera,199
+3257,725049,Roni,199
+3258,1086636,Gabriel Moscardo,199
+3259,263032,Víctor Cantillo,199
+3260,421935,Maycon,199
+3261,53058,Renato Augusto,199
+3262,54375,Giuliano,199
+3263,57229,Paulinho,199
+3264,417327,Matías Rojas,199
+3265,678853,Matheus Araújo,199
+3266,798106,Ruan Oliveira,199
+3267,1004741,Pedro,199
+3268,1007378,Wesley,199
+3269,262262,Ángel Romero,199
+3270,743590,Biro,199
+3271,636314,Gustavo Mosquito,199
+3272,489893,Yuri Alberto,199
+3273,1005165,Giovane,199
+3274,834899,Felipe Augusto,199
+3275,NULL,Oliver Seitz,300
+3276,NULL,Johannes Halbig,300
+3277,NULL,Inaki Rohrbach,300
+3278,NULL,Marko Smiljanic,300
+3279,NULL,Christian Kuhn,300
+3280,NULL,Dominik Knauer,300
+3281,NULL,Marcel Schwöbel,300
+3282,NULL,Marcel Menges,300
+3283,NULL,Pasquale Marsal,300
+3284,NULL,Selim Jungmann,300
+3285,NULL,Luigi Crisafulli,300
+3286,NULL,Ilya Ertanir,300
+3287,NULL,Nick Huller,300
+3288,NULL,Yannick Schneider,300
+3289,NULL,David Keller,300
+3290,NULL,Gregor Zimmermann,300
+3291,NULL,Nik Schmid,300
+3292,NULL,Gaetano Giordano,300
+3293,NULL,Nick Walter,300
+3294,NULL,Nils Anhölcher,300
+3295,NULL,Niklas Becker,300
+3296,NULL,Paul Hoock,300
+3297,841263,Pedro Rangel,2462
+3298,22415,Fábio,2462
+3299,NULL,Vitor Eudes,2462
+3300,520454,Nino,2462
+3301,273236,Marlon,2462
+3302,113586,Manoel,2462
+3303,35537,Felipe Melo,2462
+3304,53226,David Braz,2462
+3305,NULL,Felipe Andrade,2462
+3306,44501,Marcelo,2462
+3307,345084,Jorge,2462
+3308,167724,Diogo Barbosa,2462
+3309,592344,Guga,2462
+3310,198250,Samuel Xavier,2462
+3311,800176,André,2462
+3312,997714,Alexsander,2462
+3313,565443,Caio Vinicius,2462
+3314,346922,Thiago Santos,2462
+3315,815558,Martinelli,2462
+3316,418530,Daniel,2462
+3317,375610,Leonardo Fernández,2462
+3318,387611,Lima,2462
+3319,67920,Ganso,2462
+3320,743585,Arthur,2462
+3321,346065,Keno,2462
+3322,573131,Giovanni,2462
+3323,1084667,Isaac,2462
+3324,588989,Jhon Arias,2462
+3325,262474,Yony González,2462
+3326,856085,John Kennedy,2462
+3327,54590,Germán Cano,2462
+3328,972864,Lelê,2462
+3329,1119009,Kauã Elias,2462
+3330,264014,Sergio Rochet,6600
+3331,417084,Keiller,6600
+3332,869437,Anthoni,6600
+3333,813038,Emerson Junior,6600
+3334,428783,Vitão,6600
+3335,643750,Nicolás Hernández,6600
+3336,119434,Rodrigo Moledo,6600
+3337,45319,Gabriel Mercado,6600
+3338,312862,Dalbert,6600
+3339,749557,Thauan Lara,6600
+3340,212209,Renê,6600
+3341,275381,Fabricio Bustos,6600
+3342,119905,Hugo Mallo,6600
+3343,689640,Igor Gomes,6600
+3344,213606,Gabriel,6600
+3345,103674,Campanharo,6600
+3346,689507,Lucas Ramos,6600
+3347,815384,Matheus Dias,6600
+3348,687359,Rômulo,6600
+3349,689505,Johnny Cardoso,6600
+3350,257740,Carlos de Pena,6600
+3351,89701,Charles Aránguiz,6600
+3352,277335,Bruno Henrique,6600
+3353,678439,Mauricio,6600
+3354,104505,Alan Patrick,6600
+3355,982552,Estêvão,6600
+3356,236202,Wanderson,6600
+3357,213368,Pedro Henrique,6600
+3358,788362,Jean Dias,6600
+3359,738507,Gabriel Barros,6600
+3360,139503,Enner Valencia,6600
+3361,982549,Lucca,6600
+3362,48974,Luiz Adriano,6600
+3363,275412,João Paulo,221
+3364,98930,Vladimir,221
+3365,813111,Paulo Mazoti,221
+3366,907359,Diógenes,221
+3367,410183,João Basso,221
+3368,401539,Messias,221
+3369,860857,Joaquim,221
+3370,628223,Alex Nascimento,221
+3371,574764,Derick,221
+3372,587786,Felipe Jonatan,221
+3373,109038,Dodô,221
+3374,1032891,Kevyson,221
+3375,672292,João Lucas,221
+3376,112062,Júnior Caiçara,221
+3377,788402,Gabriel Inocêncio,221
+3378,687678,Cadu,221
+3379,574768,Sandry,221
+3380,458047,Rodrigo Fernández,221
+3381,75942,Tomás Rincón,221
+3382,373174,Dodi,221
+3383,167825,Alison,221
+3384,97507,Camacho,221
+3385,578872,Jean Lucas,221
+3386,546172,Nonato,221
+3387,624870,Ed Carlos,221
+3388,867884,Kevin Malthus,221
+3389,232847,Lucas Lima,221
+3390,739218,Luan Dias,221
+3391,1063811,Miguelito,221
+3392,312294,Yeferson Soteldo,221
+3393,606850,Lucas Braga,221
+3394,959106,Weslley Patati,221
+3395,668236,Renyer,221
+3396,131101,Stiven Mendoza,221
+3397,668267,Marcos Leonardo,221
+3398,338962,Alfredo Morelos,221
+3399,149393,Julio Furch,221
+3400,365827,Maximiliano Silvera,221
+3401,54044,Bruno Mezenga,221
+3402,468247,Cleiton,8793
+3403,412372,Lucão,8793
+3404,723168,Maycon,8793
+3405,374136,Léo Ortiz,8793
+3406,355496,Lucas Cunha,8793
+3407,658674,Luan Patrick,8793
+3408,656409,Leonardo Realpe,8793
+3409,564546,Eduardo Santos,8793
+3410,863104,Da Silva,8793
+3411,722441,Lucas Rafael,8793
+3412,994622,Cipriano,8793
+3413,432166,Luan Cândido,8793
+3414,406676,Juninho Capixaba,8793
+3415,678502,Guilherme,8793
+3416,680506,Andrés Hurtado,8793
+3417,101506,Aderlan,8793
+3418,612162,Jadsom Silva,8793
+3419,479587,Raul,8793
+3420,351892,Matheus Fernandes,8793
+3421,614328,Eric Ramires,8793
+3422,270188,Lucas Evangelista,8793
+3423,668234,Bruninho,8793
+3424,1084081,Gustavinho,8793
+3425,670965,Vitinho,8793
+3426,975191,Henry Mosquera,8793
+3427,868101,Sorriso,8793
+3428,1084074,Talisson,8793
+3429,412365,Helinho,8793
+3430,961046,Matheus Gonçalves,8793
+3431,577407,Ignacio Laquintana,8793
+3432,791721,Kawê,8793
+3433,371996,Alerrandro,8793
+3434,743951,Thiago Borbas,8793
+3435,162883,Eduardo Sasha,8793
+3436,288415,Léo Jardim,978
+3437,364257,Ivan,978
+3438,734169,Halls,978
+3439,403296,Léo,978
+3440,653152,Manuel Capasso,978
+3441,458715,Robson Bambu,978
+3442,60889,Gary Medel,978
+3443,412376,Miranda,978
+3444,84695,Maicon,978
+3445,982165,Zé Vitor,978
+3446,670201,Lucas Piton,978
+3447,643119,Riquelme,978
+3448,435211,Jefferson,978
+3449,430339,José Luis Rodríguez,978
+3450,336474,Gabriel Dias,978
+3451,412594,Paulo Henrique,978
+3452,689737,Patrick de Lucca,978
+3453,670968,Zé Gabriel,978
+3454,862574,Mateus Carvalho,978
+3455,574765,Praxedes,978
+3456,239294,Jair,978
+3457,534473,Paulinho Paula,978
+3458,1083966,Cauan Barros,978
+3459,668235,Marlon Gomes,978
+3460,37647,Dimitri Payet,978
+3461,66515,Alex Teixeira,978
+3462,703324,Figueiredo,978
+3463,456449,Serginho,978
+3464,834481,Erick Marcus,978
+3465,636784,Luca Orellano,978
+3466,703321,Gabriel Pec,978
+3467,1012564,Rayan,978
+3468,212114,Rossi,978
+3469,401727,Sebastián Ferreira,978
+3470,334229,Pablo Vegetti,978
+3471,352041,Lucas Perri,537
+3472,107318,Gatito Fernández,537
+3473,698750,Igo Gabriel,537
+3474,432146,João Fernando,537
+3475,373433,Adryelson,537
+3476,195810,Bastos,537
+3477,104326,Victor Cuesta,537
+3478,336697,Philipe Sampaio,537
+3479,740159,Sousa,537
+3480,740157,Hugo,537
+3481,137745,Marçal,537
+3482,856047,Mateo Ponte,537
+3483,61892,Rafael,537
+3484,322843,Leonel Di Placido,537
+3485,364972,Marlon Freitas,537
+3486,273438,Danilo Barbosa,537
+3487,982164,JP Galvão,537
+3488,737821,Patrick de Paula,537
+3489,167291,Gabriel Pires,537
+3490,364261,Tchê Tchê,537
+3491,978146,Raí,537
+3492,430761,Lucas Fernandes,537
+3493,110078,Eduardo,537
+3494,497494,Jacob Montes,537
+3495,691316,Luis Henrique,537
+3496,800732,Diego Hernández,537
+3497,381724,Victor Sá,537
+3498,718307,Matías Segovia,537
+3499,727747,Carlos Alberto,537
+3500,592347,Júnior Santos,537
+3501,743594,Matheus Nascimento,537
+3502,103381,Tiquinho Soares,537
+3503,44779,Diego Costa,537
+3504,982526,Valentín Adamo,537
+3505,976561,Janderson,537
+3506,283166,Marcos Felipe,10010
+3507,808445,Adriel,10010
+3508,733453,Mateus Claus,10010
+3509,99439,Danilo Fernandes,10010
+3510,524446,Kanu,10010
+3511,149752,Vitor Hugo,10010
+3512,792345,Raul Gustavo,10010
+3513,373446,David Duarte,10010
+3514,980463,Marcos Victor,10010
+3515,740501,Gabriel Xavier,10010
+3516,382473,Camilo Cándido,10010
+3517,741021,Matheus Bahia,10010
+3518,1082832,Ryan Carlos,10010
+3519,789856,Caio Roque,10010
+3520,231614,Gilberto,10010
+3521,959171,André,10010
+3522,101294,Cicinho,10010
+3523,625569,Nicolás Acevedo,10010
+3524,793815,Rezende,10010
+3525,662327,Diego Rosa,10010
+3526,346935,Yago Felipe,10010
+3527,187210,Léo Cittadini,10010
+3528,392487,Thaciano,10010
+3529,162812,Cauly,10010
+3530,1038907,Patrick Verhon,10010
+3531,148231,Lucas Mugni,10010
+3532,875328,Biel,10010
+3533,289802,Rafael Ratão,10010
+3534,676035,Luciano Juba,10010
+3535,668265,Kayky,10010
+3536,544259,Ademir,10010
+3537,691843,Vitor Jacaré,10010
+3538,205041,Everaldo,10010
+3539,658664,Vinicius Mingotti,10010
+3540,878037,Gabriel Grando,210
+3541,896667,Felipe Scheibig,210
+3542,NULL,Caíque,210
+3543,176140,Rodrigo Ely,210
+3544,145400,Walter Kannemann,210
+3545,177534,Bruno Alves,210
+3546,147396,Bruno Uvini,210
+3547,874223,Gustavo Martins,210
+3548,978004,Natã,210
+3549,32568,Pedro Geromel,210
+3550,891353,Cuiabano,210
+3551,225617,Reinaldo,210
+3552,61891,Fábio,210
+3553,342024,João Pedro,210
+3554,436385,Mathías Villasanti,210
+3555,959092,Ronald,210
+3556,980806,Lucas Milla,210
+3557,394930,Felipe Carballo,210
+3558,606716,Pepê,210
+3559,800649,Gustavinho,210
+3560,332259,Franco Cristaldo,210
+3561,294798,Nathan,210
+3562,313106,Luan,210
+3563,689017,Ferreirinha,210
+3564,829381,Lucas Besozzi,210
+3565,81455,Juan Iturbe,210
+3566,1083600,Nathan Fernandes,210
+3567,711338,Jhonata Robert,210
+3568,458251,Everton Galdino,210
+3569,129129,João Pedro,210
+3570,44352,Luis Suárez,210
+3571,1024605,André,210
+3572,103916,Rafael Cabral,609
+3573,645897,Gabriel Mesquita,609
+3574,598974,Anderson Paixão,609
+3575,NULL,Rodrigo Bazilio,609
+3576,592373,Lucas Oliveira,609
+3577,349513,Neris,609
+3578,744024,João Marcelo,609
+3579,140541,Luciano Castán,609
+3580,406675,Marlon,609
+3581,879217,Kaiki,609
+3582,341710,William,609
+3583,371967,Wesley Gasolina,609
+3584,211389,Helibelton Palacios,609
+3585,347909,Matheus Jussa,609
+3586,520629,Filipe Machado,609
+3587,218118,Lucas Silva,609
+3588,258070,Ramiro,609
+3589,815673,Fernando Henrique,609
+3590,796796,Ian Luccas,609
+3591,225984,Matheus Pereira,609
+3592,408958,Mateus Vital,609
+3593,149572,Nikão,609
+3594,674732,Wesley,609
+3595,401534,Arthur Gomes,609
+3596,406766,Bruno Rodrigues,609
+3597,752552,Vitor Leque,609
+3598,796574,Stênio,609
+3599,524572,Paulo Vitor,609
+3600,625333,Rafael Bilu,609
+3601,1084714,Robert,609
+3602,587328,Rafael Elias,609
+3603,164013,Gilberto,609
+3604,79242,Gabriel,776
+3605,273250,Luan Polli,776
+3606,764266,Marcão,776
+3607,NULL,Rafael William,776
+3608,NULL,Pedro Morisco,776
+3609,340840,Benjamín Kuscevic,776
+3610,514297,Reynaldo,776
+3611,1090422,Jean Pedroso,776
+3612,340557,Maurício Antônio,776
+3613,874307,Thalisson,776
+3614,52513,Henrique,776
+3615,1100480,Thiago Dombroski,776
+3616,613641,Jamerson,776
+3617,234538,Victor Luis,776
+3618,740295,Natanael,776
+3619,389942,Hayner,776
+3620,994588,Diogo Batista,776
+3621,351895,Andrey,776
+3622,439455,Gustavo Bochecha,776
+3623,71080,Willian Farias,776
+3624,140032,Andreas Samaris,776
+3625,703322,Bruno Gomes,776
+3626,111828,Fransérgio,776
+3627,634737,Matheus Bianqui,776
+3628,456617,Marcelino Moreno,776
+3629,570522,Sebastián Gómez,776
+3630,288496,Boschilia,776
+3631,983109,Gabriel Silva,776
+3632,612479,Alef Manga,776
+3633,816144,Lucas Barbosa,776
+3634,134936,Jesé,776
+3635,802809,Maurício Garcez,776
+3636,766258,Kaio César,776
+3637,1090823,Ruan Assis,776
+3638,NULL,Lucas Ronier,776
+3639,174915,Islam Slimani,776
+3640,366278,Rodrigo Pinho,776
+3641,747820,Diogo,776
+3642,548591,Edu,776
+3643,161188,Robson,776
+3644,270420,João Ricardo,10870
+3645,438431,Mauricio Kozlinski,10870
+3646,291963,Fernando Miguel,10870
+3647,NULL,Kennedy,10870
+3648,476339,Marcelo Benevenuto,10870
+3649,122077,Tobias Figueiredo,10870
+3650,273442,Tinga,10870
+3651,699679,Bernardo Schappo,10870
+3652,55250,Titi,10870
+3653,435163,Bruno Pacheco,10870
+3654,440377,Gonzalo Escobar,10870
+3655,476362,Dudu,10870
+3656,262851,Emanuel Brítez,10870
+3657,NULL,Vitor Ricardo,10870
+3658,323452,Zé Welison,10870
+3659,121986,Lucas Sasha,10870
+3660,594105,Pedro Augusto,10870
+3661,646404,Zanocelo,10870
+3662,982617,Hércules,10870
+3663,727751,Caio Alexandre,10870
+3664,798114,Calebe,10870
+3665,344626,Lucas Crispim,10870
+3666,348354,Tomás Pochettino,10870
+3667,362844,Pedro Rocha,10870
+3668,267849,Romarinho,10870
+3669,444920,Guilherme,10870
+3670,829968,Imanol Machuca,10870
+3671,265660,Yago Pikachu,10870
+3672,74758,Marinho,10870
+3673,162807,Juan Martín Lucero,10870
+3674,186399,Thiago Galhardo,10870
+3675,88082,Silvio Romero,10870
+3676,273203,Washington Aguerre,2863
+3677,349418,Mateus Pasinato,2863
+3678,429799,Jori,2863
+3679,54274,Matheus Cavichioli,2863
+3680,902033,Robson,2863
+3681,348261,Iago Maidana,2863
+3682,375690,Éder,2863
+3683,337922,Esteban Burgos,2863
+3684,206097,Ricardo Silva,2863
+3685,316067,Wanderson,2863
+3686,985345,Júlio,2863
+3687,442258,Nicolas,2863
+3688,443721,Marlon Lopes,2863
+3689,140748,Danilo Avelar,2863
+3690,276877,Daniel Borges,2863
+3691,432967,Marcinho,2863
+3692,435489,Lucas Kal,2863
+3693,285772,Javier Méndez,2863
+3694,271187,Juninho,2863
+3695,360526,Emmanuel Martínez,2863
+3696,1085060,Breno Cascardo,2863
+3697,977463,Rodriguinho,2863
+3698,543614,Alê,2863
+3699,977471,Mateus Henrique,2863
+3700,189418,Martín Benítez,2863
+3701,401533,Matheusinho,2863
+3702,146367,Juan Cazares,2863
+3703,538978,Pedrinho,2863
+3704,544895,Paulinho Bóia,2863
+3705,977467,Adyson,2863
+3706,668237,Rodrigo Varanda,2863
+3707,75111,Felipe Azevedo,2863
+3708,NULL,Dadá Belmonte,2863
+3709,404321,Renato Kayzer,2863
+3710,642689,Mikael,2863
+3711,195882,Gonzalo Mastriani,2863
+3712,985351,Renato Marques,2863
+3713,55246,Aloísio,2863
+3714,51716,Wellington Paulista,2863
+3715,258367,Tadeu,3197
+3716,412610,Marcelo Rangel,3197
+3717,363772,Matheus Alves,3197
+3718,468302,Lucas Halter,3197
+3719,538230,Bruno Melo,3197
+3720,371250,Edu,3197
+3721,129119,Sidimar,3197
+3722,730708,Hugo,3197
+3723,353722,Sander,3197
+3724,333633,Bruno Santos,3197
+3725,350766,Maguinho,3197
+3726,59930,Apodi,3197
+3727,646432,Higor Meritão,3197
+3728,555277,Luís Oyama,3197
+3729,252900,Willian Oliveira,3197
+3730,548846,Diego,3197
+3731,197880,Raphael Guzzo,3197
+3732,525256,Everton Morelli,3197
+3733,139607,Guilherme,3197
+3734,728262,Julián Palacios,3197
+3735,978117,Dodô,3197
+3736,146020,Vinícius,3197
+3737,405720,Diego Gonçalves,3197
+3738,594550,Anderson Oliveira,3197
+3739,480225,Alesson,3197
+3740,1022057,Pedro Junqueira,3197
+3741,376441,Allano,3197
+3742,788861,Matheus Babi,3197
+3743,649055,Gabriel Novaes,3197
+3744,585347,Philippe Costa,3197
+3745,595013,João Magno,3197
+3746,978480,Breno Herculano,3197
+3747,269860,Walter,28022
+3748,68408,João Carlos,28022
+3749,530392,Vinicius Barreta,28022
+3750,169179,Alan Empereur,28022
+3751,166032,Marllon,28022
+3752,390695,Allyson,28022
+3753,982039,Vitão,28022
+3754,862358,Rikelme,28022
+3755,74747,Uendel,28022
+3756,933879,Juan Tavares,28022
+3757,373192,Patric Calmon,28022
+3758,617687,Matheus Alexandre,28022
+3759,870778,Matheusinho,28022
+3760,432958,Lucas Mineiro,28022
+3761,546530,Raniele,28022
+3762,688684,Ronald,28022
+3763,212899,Filipe Augusto,28022
+3764,350342,Fernando Sobral,28022
+3765,808507,Denilson,28022
+3766,1066523,Ricardo Cerqueira,28022
+3767,733083,Nicolás Quagliata,28022
+3768,392809,Clayson,28022
+3769,973567,Gabryel Freitas,28022
+3770,347100,Jonathan Cafu,28022
+3771,121990,Wellington Silva,28022
+3772,858495,Emerson Ramon,28022
+3773,675178,Isidro Pitta,28022
+3774,243541,Deyverson,28022
+3775,700933,Derik Lacerda,28022

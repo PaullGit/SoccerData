@@ -4,7 +4,10 @@ import pandas as pd
 import re
 import functions as f
 import leagues as l
+import stopwatch as sw
 
+stopwatch = sw.Stopwatch()
+stopwatch.start()
 Names = []
 IDs = []
 ClubIDs = []
@@ -24,3 +27,4 @@ for league in leagues:
 df = pd.DataFrame({"PlayerID": IDs, "PlayerName": Names, "ClubID": ClubIDs })
 df.to_csv("all_players.csv")
 print(df)
+elapsed_time = stopwatch.stop()
