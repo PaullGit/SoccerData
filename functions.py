@@ -82,3 +82,42 @@ def GetPlayerInjuryHistory(player, pageSoup):
         player_id_list.append(player)
 
     return player_id_list, season_list, injury_list, from_list, until_list, days_list, games_missed_list
+
+def GetPlayerProfile(player, pageSoup):
+    #PAGE SOUPING
+    player_data = pageSoup.find_all("span", {"itemprop": True, "class":"data-header__content"})
+
+    #SEEDING DATA
+    player_id_list = []
+    name_in_country_list = []
+    place_of_birth_list = []
+    height_list = []
+    citizenship_list = []
+    position_list = []
+    foot_list = []
+    current_club_list = []
+    current_market_value_list = []
+    
+    for _ in range(0, len(player_data)):
+        html_string = player_data[_]
+        soup = BeautifulSoup(str(html_string), 'html.parser')
+        td_tag = soup.find("span", class_="data-header__content")
+        if td_tag:
+            if _ % 8 == 0:  
+                player_id_list.append(player)
+            if _ % 8 == 1:
+                name_in_country_list.append(td_tag.text)
+            if _ % 8 == 2:
+                place_of_birth_list.append(td_tag.text)
+            if _ % 8 == 3:
+                height_list.append(td_tag.text)
+            if _ % 8 == 4:
+                citizenship_list.append(td_tag.text)
+            if _ % 8 == 5:
+                position_list.append(td_tag.text)
+            if _ % 8 == 6:
+                foot_list.append(td_tag.text)
+            if _ % 8 == 7:
+                current_club_list.append(td_tag.text)
+        else:
+            print("NULL")
