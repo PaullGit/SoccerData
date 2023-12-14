@@ -15,10 +15,12 @@ stopwatch.start()
 
 # Takes a CSV from all players
 read = pd.read_csv("all_players.csv")
-players = read["PlayerID"].dropna().tolist()
+# players = read["PlayerID"].dropna().tolist()
+players = [182877,335721,230784,392765,776890,282823,357164]
 
 player_id_list = []
 name_in_country_list = []
+date_of_birth_list = []
 place_of_birth_list = []
 height_list = []
 citizenship_list = []
@@ -33,16 +35,18 @@ for player in players:
     pageTree = requests.get(page, headers=headers)
     pageSoup = BeautifulSoup(pageTree. content, 'html.parser')
     result = f.GetPlayerProfile(int(player), pageSoup)
+
     player_id_list += result[0]
     name_in_country_list += result[1]
-    place_of_birth_list += result[2]
-    height_list += result[3]
-    citizenship_list+= result[4]
-    foot_list += result[5]
-    current_club_list += result[6]
-    current_market_value_list += result[7]
+    date_of_birth_list += result[2]
+    place_of_birth_list += result[3]
+    height_list += result[4]
+    citizenship_list+= result[5]
+    foot_list += result[6]
+    current_club_list += result[7]
+    current_market_value_list += result[8] # Has to be added in Functions.py
     
-df = pd.DataFrame({"PlayerID": player_id_list, "Name in Country": name_in_country_list, "Place of Birth": place_of_birth_list, "Height": height_list, "Citizenship": citizenship_list, "Foot": foot_list, "Current Club": current_club_list, "Current Market Value": current_market_value_list})
+df = pd.DataFrame({"PlayerID": player_id_list, "Name in Country": name_in_country_list, "Date of Birth": date_of_birth_list, "Place of Birth": place_of_birth_list, "Height": height_list, "Citizenship": citizenship_list, "Foot": foot_list, "Current Club": current_club_list, "Current Market Value": current_market_value_list})
 df.to_csv("player_profile.csv")  
 print(df)
 

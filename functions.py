@@ -85,39 +85,77 @@ def GetPlayerInjuryHistory(player, pageSoup):
 
 def GetPlayerProfile(player, pageSoup):
     #PAGE SOUPING
-    player_data = pageSoup.find_all("span", {"itemprop": True, "class":"data-header__content"})
-
+    player_data = pageSoup.find_all("span", {"class":"info-table__content info-table__content--bold"})
+    current_club_meta = pageSoup.find_all("span", {"class":"data-header__club" , "itemprop":"affiliation" })
+    current_market_value_meta = pageSoup.find_all("div", {"class":"current-value svelte-18lvpom"}) 
     #SEEDING DATA
     player_id_list = []
-    name_in_country_list = []
+    date_of_birth_list = []
     place_of_birth_list = []
-    height_list = []
     citizenship_list = []
+    height_list = []
+
+    name_in_country_list = []
     position_list = []
     foot_list = []
+
     current_club_list = []
     current_market_value_list = []
     
-    for _ in range(0, len(player_data)):
-        html_string = player_data[_]
-        soup = BeautifulSoup(str(html_string), 'html.parser')
-        td_tag = soup.find("span", class_="data-header__content")
-        if td_tag:
-            if _ % 8 == 0:  
-                player_id_list.append(player)
-            if _ % 8 == 1:
-                name_in_country_list.append(td_tag.text)
-            if _ % 8 == 2:
-                place_of_birth_list.append(td_tag.text)
-            if _ % 8 == 3:
-                height_list.append(td_tag.text)
-            if _ % 8 == 4:
-                citizenship_list.append(td_tag.text)
-            if _ % 8 == 5:
-                position_list.append(td_tag.text)
-            if _ % 8 == 6:
-                foot_list.append(td_tag.text)
-            if _ % 8 == 7:
-                current_club_list.append(td_tag.text)
-        else:
-            print("NULL")
+    player_id_list.append(player)
+    current_club_list.append(current_club_meta[0].text.strip())
+    current_market_value_list.append("NULL")
+    if hasCountryName(player_data[0]):
+        for _ in range(0, 7):
+                html_string = player_data[_]
+                soup = BeautifulSoup(str(html_string), 'html.parser')
+                td_tag = soup.find("span", class_="info-table__content info-table__content--bold")   
+
+                if td_tag:
+                    if _ % 8 == 0:  
+                        name_in_country_list.append(td_tag.text.strip())
+                    if _ % 8 == 1:
+                        date_of_birth_list.append(td_tag.text.strip())
+                    if _ % 8 == 2:
+                        place_of_birth_list.append(td_tag.text.strip())
+                    if _ % 8 == 3:
+                        height_list.append(td_tag.text.strip()) 
+                    if _ % 8 == 4:
+                        citizenship_list.append(td_tag.text.strip())
+                    if _ % 8 == 5:
+                        position_list.append(td_tag.text.strip())
+                    if _ % 8 == 6:  
+                        foot_list.append(td_tag.text.strip())
+                else:
+                    print("NULL")
+    else:
+        for _ in range(0, 6):
+                html_string = player_data[_]
+                soup = BeautifulSoup(str(html_string), 'html.parser')
+                td_tag = soup.find("span", class_="info-table__content info-table__content--bold")   
+
+                if td_tag:
+                    if _ % 7 == 0:  
+                        date_of_birth_list.append(td_tag.text.strip())
+                    if _ % 7 == 1:
+                        place_of_birth_list.append(td_tag.text.strip())
+                    if _ % 7 == 2:
+                        height_list.append(td_tag.text.strip()) 
+                    if _ % 7 == 3:
+                        citizenship_list.append(td_tag.text.strip())
+                    if _ % 7 == 4:
+                        position_list.append(td_tag.text.strip())
+                    if _ % 7 == 5:  
+                        foot_list.append(td_tag.text.strip())
+                else:
+                    print("NULL")
+        return player_id_list, name_in_country_list, date_of_birth_list, place_of_birth_list, height_list, citizenship_list, foot_list, current_club_list, current_market_value_list
+
+def hasCountryName(first):
+    soup = BeautifulSoup(str(first), 'html.parser')
+    td_tag = soup.find("span", class_="info-table__content info-table__content--bold")
+
+    if td_tag.text.strip() == "Name in home country:":
+        return False
+    else:
+    
