@@ -103,25 +103,26 @@ def GetPlayerProfile(player, pageSoup):
     a_tag = club_soup.find('span', class_="data-header__club").find('a')
     club_name = a_tag.get('title')
     player_club_list.append(club_name)
-
-    current_market_value_list.append("NULL") # Has to be changed!
+    print(club_name)
 
     for _ in range(0, len(player_data)):
         html_string = player_data[_]
         soup = BeautifulSoup(str(html_string), 'html.parser')
         td_tag = soup.find("span", class_="data-header__content")
-        print(td_tag)
         if td_tag:
-            if _ % 8 == 0:  
+            if _ % 4 == 0:  
                 date_of_birth_list.append(td_tag.text.strip())
-            if _ % 8 == 1:
+            if _ % 4 == 1:
                 place_of_birth_list.append(td_tag.text.strip())
-            if _ % 8 == 2:
+            if _ % 4 == 2:
                 citizenship_list.append(td_tag.text.strip())
-            if _ % 8 == 3:
+            if _ % 4 == 3:
                 height_list.append(td_tag.text.strip())
-            
+        
         else:
             print("NULL")
+
+
+    current_market_value_list.append("NULL") # Has to be changed!
     return player_id_list, player_club_list, date_of_birth_list, place_of_birth_list, height_list, citizenship_list, current_market_value_list
 
