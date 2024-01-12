@@ -84,45 +84,51 @@ def GetPlayerInjuryHistory(player, pageSoup):
     return player_id_list, season_list, injury_list, from_list, until_list, days_list, games_missed_list
 
 def GetPlayerProfile(player, pageSoup):
-    #PAGE SOUPING
-    player_data = pageSoup.find_all("span", {"class":"info-table__content info-table__content--bold"})
+    player_name = pageSoup.find_all("h1", {"class":"dataHeader"})
+    player_data = pageSoup.find_all("span", {"itemprop": True, "class":"data-header__content"})
+
     current_club_meta = pageSoup.find_all("span", {"class":"data-header__club" , "itemprop":"affiliation" })
-    current_market_value_meta = pageSoup.find_all("div", {"class":"current-value svelte-18lvpom"}) 
+    current_market_value_meta = pageSoup.find_all("div", {"class":"grid__cell grid__cell--center tm-player-transfer-history-grid__market-value"})
+    current_market_value_meta = pageSoup.find_all("div.tm-player-transfer-history-grid__market-value")
+
     #SEEDING DATA
-    player_id_list = []
-    player_club_list= []
-    date_of_birth_list = []
-    place_of_birth_list = []
-    citizenship_list = []
-    height_list = []
-    current_market_value_list = []
-    
+    player_id_list = [] #check
+    player_club_list = [] #check
+    player_name_list = [] #check
+    date_of_birth_list = [] #check
+    place_of_birth_list = [] #check
+    citizenship_list = [] #check
+    height_list = [] #check
+
+    position_list = [] #Not available
+    foot_list = [] #Not available
+
+    current_market_value_list = [] #check
+
     player_id_list.append(player)
 
     club_soup = BeautifulSoup(str(current_club_meta[0]), 'html.parser')
     a_tag = club_soup.find('span', class_="data-header__club").find('a')
     club_name = a_tag.get('title')
     player_club_list.append(club_name)
-    print(club_name)
+
+    player_name_list.append("NULL")
+    current_market_value_list.append("NULL")
 
     for _ in range(0, len(player_data)):
-        html_string = player_data[_]
-        soup = BeautifulSoup(str(html_string), 'html.parser')
-        td_tag = soup.find("span", class_="data-header__content")
-        if td_tag:
-            if _ % 4 == 0:  
-                date_of_birth_list.append(td_tag.text.strip())
-            if _ % 4 == 1:
-                place_of_birth_list.append(td_tag.text.strip())
-            if _ % 4 == 2:
-                citizenship_list.append(td_tag.text.strip())
-            if _ % 4 == 3:
-                height_list.append(td_tag.text.strip())
-        
-        else:
-            print("NULL")
-
-
-    current_market_value_list.append("NULL") # Has to be changed!
-    return player_id_list, player_club_list, date_of_birth_list, place_of_birth_list, height_list, citizenship_list, current_market_value_list
-
+            html_string = player_data[_]
+            soup = BeautifulSoup(str(html_string), 'html.parser')
+            td_tag = soup.find("span", class_="data-header__content")
+            if td_tag:
+                if _ % 4 == 0:  
+                    date_of_birth_list.append(td_tag.text.strip())
+                if _ % 4 == 1:
+                    place_of_birth_list.append(td_tag.text.strip())
+                if _ % 4 == 2:
+                    citizenship_list.append(td_tag.text.strip())
+                if _ % 4 == 3:
+                    height_list.append(td_tag.text.strip())
+            
+            else:
+                print("NULL")
+    return player_id_list, player_club_list, player_name_list, date_of_birth_list, place_of_birth_list, citizenship_list, height_list, current_market_value_list
