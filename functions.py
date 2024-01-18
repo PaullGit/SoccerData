@@ -110,36 +110,38 @@ def GetPlayerProfile(player, pageSoup):
     citizenship_list = [] #check
     height_list = [] #check
 
-    position_list = [] #Not available
-    foot_list = [] #Not available
-
     current_market_value_list = [] #check
 
     player_id_list.append(player)
 
-    club_soup = BeautifulSoup(str(current_club_meta[0]), 'html.parser')
-    a_tag = club_soup.find('span', class_="data-header__club").find('a')
-    club_name = a_tag.get('title')
-    player_club_list.append(club_name)
+    try:
+        club_soup = BeautifulSoup(str(current_club_meta[0]), 'html.parser')
+        a_tag = club_soup.find('span', class_="data-header__club").find('a')
+        club_name = a_tag.get('title')
+        player_club_list.append(club_name)
+    except:
+        player_club_list.append("NULL")
     
     player_name_list.append(clean_player_name(player_name))
 
     current_market_value_list.append("NULL")
 
-    for _ in range(0, len(player_data)):
-            html_string = player_data[_]
-            soup = BeautifulSoup(str(html_string), 'html.parser')
-            td_tag = soup.find("span", class_="data-header__content")
+    for _ in range(0, 4):
+            try:
+                html_string = player_data[_]
+                soup = BeautifulSoup(str(html_string), 'html.parser')
+                td_tag = soup.find("span", class_="data-header__content")
+                value = td_tag.text.strip()
+            except:
+                value = "NULL"
             if td_tag:
                 if _ % 4 == 0:  
-                    date_of_birth_list.append(td_tag.text.strip())
+                    date_of_birth_list.append(value)
                 if _ % 4 == 1:
-                    place_of_birth_list.append(td_tag.text.strip())
+                    place_of_birth_list.append(value)
                 if _ % 4 == 2:
-                    citizenship_list.append(td_tag.text.strip())
+                    citizenship_list.append(value)
                 if _ % 4 == 3:
-                    height_list.append(td_tag.text.strip())
+                    height_list.append(value)
             
-            else:
-                print("NULL")
     return player_id_list, player_club_list, player_name_list, date_of_birth_list, place_of_birth_list, citizenship_list, height_list, current_market_value_list
