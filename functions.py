@@ -1,10 +1,20 @@
+import re
 from bs4 import BeautifulSoup
 
-def Validate(a ,b, club_id):
+def validate(a ,b, club_id):
     if len(a) != len(b):
         print("a: " + str( len(a)) )
         print("b: " + str( len(b)) )
         print("False on club_id: " + str(club_id))
+
+def clean_player_name(player_name):
+    if len(player_name) == 0:
+        return "NULL"
+    input_string = player_name[0].get_text(strip=True)
+    only_letters = re.sub(r'[0-9#]', '', input_string)
+    find_capitals = re.sub(r'([A-Z])', r' \1', only_letters)
+    cleaned_string = find_capitals.lstrip()
+    return cleaned_string
 
 def GetPlayers(club_id, pageSoup):
     #PAGE SOUPING
@@ -25,7 +35,7 @@ def GetPlayers(club_id, pageSoup):
             cleaned_player_id = "NULL"
         list_ids.append(cleaned_player_id)
     list_club_ids = [club_id for i in range(0, len(list_ids))]
-    Validate(list_names, list_ids, club_id)
+    validate(list_names, list_ids, club_id)
     
     return list_ids,list_names, list_club_ids
 
@@ -84,7 +94,7 @@ def GetPlayerInjuryHistory(player, pageSoup):
     return player_id_list, season_list, injury_list, from_list, until_list, days_list, games_missed_list
 
 def GetPlayerProfile(player, pageSoup):
-    player_name = pageSoup.find_all("h1", {"class":"dataHeader"})
+    player_name = pageSoup.find_all("h1", {"class":"data-header__headline-wrapper"})
     player_data = pageSoup.find_all("span", {"itemprop": True, "class":"data-header__content"})
 
     current_club_meta = pageSoup.find_all("span", {"class":"data-header__club" , "itemprop":"affiliation" })
@@ -111,8 +121,9 @@ def GetPlayerProfile(player, pageSoup):
     a_tag = club_soup.find('span', class_="data-header__club").find('a')
     club_name = a_tag.get('title')
     player_club_list.append(club_name)
+    
+    player_name_list.append(clean_player_name(player_name))
 
-    player_name_list.append("NULL")
     current_market_value_list.append("NULL")
 
     for _ in range(0, len(player_data)):
