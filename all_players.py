@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import re
 import functions as f
-import leagues as l
-import stopwatch as sw
+import utility.leagues as l
+import utility.stopwatch as sw
 
 stopwatch = sw.Stopwatch()
 stopwatch.start()
