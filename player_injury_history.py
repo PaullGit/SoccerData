@@ -14,10 +14,9 @@ stopwatch = sw.Stopwatch()
 stopwatch.start()
 
 # Takes a CSV from all players
-read = pd.read_csv("all_players.csv")
+read = pd.read_csv("all_players_in_premiere_League.csv")
 players = read["PlayerID"].dropna().tolist()
-# first200 = players[:200]
-# print(first200)
+
 
 player_id_list = []
 season_list = []
@@ -42,7 +41,7 @@ for player in players:
     games_missed_list += result[6]
 
 df = pd.DataFrame({"PlayerID": player_id_list, "Season": season_list, "Injury": injury_list, "From": from_list, "Until": until_list, "Days": days_list, "Games Missed": games_missed_list})
-df.to_csv("player_injury_history.csv")  
+df.to_csv("player_injury_history_in_premiere_League.csv")  
 print(df)
 
 elapsed_time = stopwatch.stop()
