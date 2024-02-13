@@ -7,6 +7,4 @@ la_liga = [418, 131, 13, 681, 621,150, 368, 1050, 1049, 12321, 940,331,3709,3302
 bundesliga = [27, 15, 23826, 16, 82, 18, 89, 24, 79, 60, 533, 167, 39, 3, 86, 80, 2036, 105]
 brasileiro = [614,1023,585,679,199,300, 2462, 6600, 221, 8793, 978,537, 10010, 210, 609, 776, 10870, 2863, 3197, 28022]
 
-read = pd.read_csv("all_players.csv")
-players = read["PlayerID"].dropna().tolist()
-m_players = [int(player) for player in players]
+
