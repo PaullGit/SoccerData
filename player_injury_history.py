@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import functions as f
-import stopwatch as sw
+import utility.stopwatch as sw
 stopwatch = sw.Stopwatch()
 stopwatch.start()
 

@@ -9,8 +9,8 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import functions as f
-import stopwatch as sw
-import leagues as l
+import utility.stopwatch as sw
+import utility.leagues as l
 stopwatch = sw.Stopwatch()
 stopwatch.start()
 
