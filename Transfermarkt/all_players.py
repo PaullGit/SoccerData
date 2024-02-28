@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
-import functions as f
+import Transfermarkt.functions as f
 import utility.leagues as l
 import utility.stopwatch as sw
 
